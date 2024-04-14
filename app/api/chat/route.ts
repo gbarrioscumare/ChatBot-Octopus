@@ -16,7 +16,7 @@ export async function POST(req: Request) {
 
     let docContext = '';
     if (useRag) {
-      const {data} = await openai.embeddings.create({input: latestMessage, model: 'text-embedding-3-small'});
+      const {data} = await openai.embeddings.create({input: latestMessage, model: 'text-embedding-ada-002'});
 
       const collection = await astraDb.collection(`chat_${similarityMetric}`);
 

@@ -65,7 +65,7 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
     for await (const version of versiones) {
       const { data } = await openai.embeddings.create({
         input: version.version,
-        model: 'text-embedding-3-small',
+        model: 'text-embedding-ada-002',
       });
 
       const res = await collection.insertOne({
