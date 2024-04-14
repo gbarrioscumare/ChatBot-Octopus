@@ -1,0 +1,7311 @@
+[
+  {
+    "marca": "Alfa Romeo",
+    "modelo": "Giulia",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "2.9 Quadrifoglio",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0T Veloce",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Alfa Romeo",
+    "modelo": "Stelvio",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "2.0T Súper",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0T Veloce",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A1 Sportback",
+    "precio": "27290000",
+    "versiones": [
+      {
+        "version": "30 TFSi Aut",
+        "precio": "$27.290.000"
+      },
+      {
+        "version": "30 TFSi Aut Sport",
+        "precio": "$30.790.000"
+      },
+      {
+        "version": "35 TFSi Aut Sport",
+        "precio": "$32.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A3 Sedán",
+    "precio": "34290000",
+    "versiones": [
+      {
+        "version": "35 TFSi Aut",
+        "precio": "$34.290.000"
+      },
+      {
+        "version": "35 TFSi Sport Aut Dark Edition",
+        "precio": "$38.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A3 Sportback",
+    "precio": "33290000",
+    "versiones": [
+      {
+        "version": "35 TFSi Aut",
+        "precio": "$33.290.000"
+      },
+      {
+        "version": "35 TFSi Sport",
+        "precio": "$36.290.000"
+      },
+      {
+        "version": "35 TFSi Sport Dark Edition",
+        "precio": "$37.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A4",
+    "precio": "38990000",
+    "versiones": [
+      {
+        "version": "35 TFSi",
+        "precio": "$38.990.000"
+      },
+      {
+        "version": "35 TFSi Sport",
+        "precio": "$45.290.000"
+      },
+      {
+        "version": "35 TFSi Sport Dark Edition",
+        "precio": "$46.790.000"
+      },
+      {
+        "version": "40 TFSi Sport",
+        "precio": "$48.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A5 Cabrio",
+    "precio": "54990000",
+    "versiones": [
+      {
+        "version": "40 TFSi Aut",
+        "precio": "$54.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A5 Coupé",
+    "precio": "47490000",
+    "versiones": [
+      {
+        "version": "40 TFSi Aut",
+        "precio": "$47.490.000"
+      },
+      {
+        "version": "45 TFSi Aut Quattro Dark Edition",
+        "precio": "$63.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A5 Sportback",
+    "precio": "65290000",
+    "versiones": [
+      {
+        "version": "45 TFSi Aut Sport Dark Edition",
+        "precio": "$65.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "A6",
+    "precio": "57990000",
+    "versiones": [
+      {
+        "version": "40 TFSi Sport Aut",
+        "precio": "$57.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "Q2",
+    "precio": "38390000",
+    "versiones": [
+      {
+        "version": "35 TFSi Aut Sport Dark Edition",
+        "precio": "$38.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "Q3",
+    "precio": "38990000",
+    "versiones": [
+      {
+        "version": "35 TFSi Aut",
+        "precio": "$38.990.000"
+      },
+      {
+        "version": "35 TFSi Sport",
+        "precio": "$43.990.000"
+      },
+      {
+        "version": "40 TFSi Sport",
+        "precio": "$48.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "Q3 Sportback",
+    "precio": "40990000",
+    "versiones": [
+      {
+        "version": "35 TFSi Aut",
+        "precio": "$40.990.000"
+      },
+      {
+        "version": "35 TFSi Aut Sport",
+        "precio": "$45.990.000"
+      },
+      {
+        "version": "35 TFSi Aut Sport Dark Edition",
+        "precio": "$47.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "Q5 Sportback",
+    "precio": "71290000",
+    "versiones": [
+      {
+        "version": "45 TFSi Quattro Aut Sport",
+        "precio": "$71.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "Q7",
+    "precio": "77290000",
+    "versiones": [
+      {
+        "version": "55 TFSi Quattro Aut",
+        "precio": "$77.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "Q8",
+    "precio": "84290000",
+    "versiones": [
+      {
+        "version": "55 TFSi",
+        "precio": "$84.290.000"
+      },
+      {
+        "version": "55 TFSi Sport",
+        "precio": "$98.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "R8 Coupé",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "Spyder 5.2L Quattro Aut",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "RS 5",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "2.9L TFSi Quattro Aut",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "RS Q3 Sportback",
+    "precio": "96990000",
+    "versiones": [
+      {
+        "version": "2.5 TFSi Quattro Aut",
+        "precio": "$96.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "RS Q8",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "4.0 TFSi Quattro Aut",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "S3 Sportback",
+    "precio": "54990000",
+    "versiones": [
+      {
+        "version": "2.0L TFSi",
+        "precio": "$54.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "S4",
+    "precio": "67990000",
+    "versiones": [
+      {
+        "version": "3.0 TFSi Quattro Aut",
+        "precio": "$67.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "S5 Sportback",
+    "precio": "74290000",
+    "versiones": [
+      {
+        "version": "3.0L TFSi Aut",
+        "precio": "$74.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Audi",
+    "modelo": "SQ5 Sportback",
+    "precio": "97790000",
+    "versiones": [
+      {
+        "version": "3.0L TFSi Quattro Aut",
+        "precio": "$97.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "BAIC",
+    "modelo": "BJ40 Plus",
+    "precio": "29990000",
+    "versiones": [
+      {
+        "version": "2.0T Elite",
+        "precio": "$29.990.000"
+      },
+      {
+        "version": "2.0T Luxury",
+        "precio": "$37.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BAIC",
+    "modelo": "X35",
+    "precio": "11590000",
+    "versiones": [
+      {
+        "version": "1.5L Comfort",
+        "precio": "$11.590.000"
+      },
+      {
+        "version": "1.5L Elite",
+        "precio": "$12.290.000"
+      },
+      {
+        "version": "1.5L Luxury",
+        "precio": "$15.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "BAIC",
+    "modelo": "X55",
+    "precio": "10790000",
+    "versiones": [
+      {
+        "version": "1.5L Comfort",
+        "precio": "$10.790.000"
+      },
+      {
+        "version": "1.5L Elite",
+        "precio": "$11.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "iPerformance",
+    "precio": "47990000",
+    "versiones": [
+      {
+        "version": "X1 xDrive25e DynamicSUV",
+        "precio": "$47.990.000"
+      },
+      {
+        "version": "X1 xDrive25e XLineSUV",
+        "precio": "$59.290.000"
+      },
+      {
+        "version": "Serie 5 530e LuxurySedán",
+        "precio": "$79.990.000"
+      },
+      {
+        "version": "X5 xDrive 50e xLineSUV",
+        "precio": "$97.990.000"
+      },
+      {
+        "version": "X5 xDrive 50e M SportSUV",
+        "precio": "$116.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "iX",
+    "precio": "92990000",
+    "versiones": [
+      {
+        "version": "xDrive40 Atelier",
+        "precio": "$92.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "iX3",
+    "precio": "87390000",
+    "versiones": [
+      {
+        "version": "Impressive",
+        "precio": "$87.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "M2 Coupé",
+    "precio": "98990000",
+    "versiones": [
+      {
+        "version": "Competition Aut",
+        "precio": "$98.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "M5",
+    "precio": "152890000",
+    "versiones": [
+      {
+        "version": "Competition",
+        "precio": "$152.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "M8 Coupé",
+    "precio": "134990000",
+    "versiones": [
+      {
+        "version": "Competition",
+        "precio": "$134.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 1",
+    "precio": "33290000",
+    "versiones": [
+      {
+        "version": "118i Dynamic",
+        "precio": "$33.290.000"
+      },
+      {
+        "version": "128ti",
+        "precio": "$45.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 2 Coupé",
+    "precio": "42490000",
+    "versiones": [
+      {
+        "version": "220i Dynamic",
+        "precio": "$42.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 2 Gran Coupe",
+    "precio": "55990000",
+    "versiones": [
+      {
+        "version": "M235i xDrive",
+        "precio": "$55.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 3",
+    "precio": "41990000",
+    "versiones": [
+      {
+        "version": "320i Urban",
+        "precio": "$41.990.000"
+      },
+      {
+        "version": "320i Dynamic",
+        "precio": "$46.990.000"
+      },
+      {
+        "version": "M340i Xdrive",
+        "precio": "$69.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 4 Convertible",
+    "precio": "57990000",
+    "versiones": [
+      {
+        "version": "420i Dynamic",
+        "precio": "$57.990.000"
+      },
+      {
+        "version": "M440i xDrive",
+        "precio": "$80.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 4 Gran Coupé",
+    "precio": "78990000",
+    "versiones": [
+      {
+        "version": "M440i xDrive",
+        "precio": "$78.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 5",
+    "precio": "70390000",
+    "versiones": [
+      {
+        "version": "530i M Sport",
+        "precio": "$70.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 8",
+    "precio": "139990000",
+    "versiones": [
+      {
+        "version": "M850i xDrive",
+        "precio": "$139.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Serie 8 Gran Coupé",
+    "precio": "141990000",
+    "versiones": [
+      {
+        "version": "M850i xDrive",
+        "precio": "$141.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X2",
+    "precio": "41290000",
+    "versiones": [
+      {
+        "version": "sDrive18i M Sport X",
+        "precio": "$41.290.000"
+      },
+      {
+        "version": "M35i xDrive",
+        "precio": "$59.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X3",
+    "precio": "47890000",
+    "versiones": [
+      {
+        "version": "sDrive 20i Dynamic",
+        "precio": "$47.890.000"
+      },
+      {
+        "version": "xDrive 20d Dynamic",
+        "precio": "$50.990.000"
+      },
+      {
+        "version": "sDrive 20i Heritage",
+        "precio": "$56.690.000"
+      },
+      {
+        "version": "xDrive 20d Heritage",
+        "precio": "$62.390.000"
+      },
+      {
+        "version": "xDrive 30i M Sport",
+        "precio": "$71.790.000"
+      },
+      {
+        "version": "M40i",
+        "precio": "$86.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X3 M",
+    "precio": "116990000",
+    "versiones": [
+      {
+        "version": "Competition",
+        "precio": "$116.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X4",
+    "precio": "71790000",
+    "versiones": [
+      {
+        "version": "xDrive 30i Heritage",
+        "precio": "$71.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X4 M",
+    "precio": "118990000",
+    "versiones": [
+      {
+        "version": "Competition",
+        "precio": "$118.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X5",
+    "precio": "105990000",
+    "versiones": [
+      {
+        "version": "xDrive 40i M Sport",
+        "precio": "$105.990.000"
+      },
+      {
+        "version": "xDrive 30d M Sport",
+        "precio": "$106.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X5 M",
+    "precio": "202990000",
+    "versiones": [
+      {
+        "version": "Competition",
+        "precio": "$202.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X6",
+    "precio": "137990000",
+    "versiones": [
+      {
+        "version": "M60i",
+        "precio": "$137.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X6 M",
+    "precio": "203990000",
+    "versiones": [
+      {
+        "version": "Competition",
+        "precio": "$203.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "X7",
+    "precio": "100999000",
+    "versiones": [
+      {
+        "version": "xDrive 40i Executive",
+        "precio": "$100.999.000"
+      },
+      {
+        "version": "xDrive 40d Executive",
+        "precio": "$103.890.000"
+      },
+      {
+        "version": "xDrive 40i Pure Excellence",
+        "precio": "$129.990.000"
+      },
+      {
+        "version": "xDrive 40d Pure Excellence",
+        "precio": "$134.190.000"
+      },
+      {
+        "version": "M60i xDrive",
+        "precio": "$165.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "XM",
+    "precio": "244490000",
+    "versiones": [
+      {
+        "version": "4.4L",
+        "precio": "$244.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "BMW",
+    "modelo": "Z4",
+    "precio": "83190000",
+    "versiones": [
+      {
+        "version": "M40i",
+        "precio": "$83.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "BYD",
+    "modelo": "Han EV",
+    "precio": "68990000",
+    "versiones": [
+      {
+        "version": "GS",
+        "precio": "$68.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BYD",
+    "modelo": "Song Plus DM-i",
+    "precio": "31990000",
+    "versiones": [
+      {
+        "version": "GL",
+        "precio": "$31.990.000"
+      },
+      {
+        "version": "GS",
+        "precio": "$35.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BYD",
+    "modelo": "Tang EV",
+    "precio": "65990000",
+    "versiones": [
+      {
+        "version": "GS",
+        "precio": "$65.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "BYD",
+    "modelo": "Yuan Plus EV",
+    "precio": "34990000",
+    "versiones": [
+      {
+        "version": "GL Plus",
+        "precio": "$34.990.000"
+      },
+      {
+        "version": "GS",
+        "precio": "$37.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "Alsvin",
+    "precio": "10890000",
+    "versiones": [
+      {
+        "version": "Luxury",
+        "precio": "$10.890.000"
+      },
+      {
+        "version": "Elite Aut",
+        "precio": "$12.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "CS15",
+    "precio": "12399000",
+    "versiones": [
+      {
+        "version": "Luxury",
+        "precio": "$12.399.000"
+      },
+      {
+        "version": "Elite",
+        "precio": "$12.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "CS35 Plus",
+    "precio": "14540000",
+    "versiones": [
+      {
+        "version": "1.6L Comfort",
+        "precio": "$14.540.000"
+      },
+      {
+        "version": "1.6L Luxury",
+        "precio": "$15.240.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "CS55",
+    "precio": "16590000",
+    "versiones": [
+      {
+        "version": "Comfort",
+        "precio": "$16.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "CX70",
+    "precio": "17590000",
+    "versiones": [
+      {
+        "version": "Elite Plus Turbo Aut",
+        "precio": "$17.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "Hunter",
+    "precio": "20890000",
+    "versiones": [
+      {
+        "version": "Comfort",
+        "precio": "$20.890.000"
+      },
+      {
+        "version": "Luxury",
+        "precio": "$22.690.000"
+      },
+      {
+        "version": "Elite 4x4",
+        "precio": "$23.590.000"
+      },
+      {
+        "version": "Comfort 4x4",
+        "precio": "$23.990.000"
+      },
+      {
+        "version": "Elite Sport 4x4",
+        "precio": "$25.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "MD201 Cargo Box",
+    "precio": "10043600",
+    "versiones": [
+      {
+        "version": "1.2L",
+        "precio": "$10.043.600"
+      },
+      {
+        "version": "1.2L Ac",
+        "precio": "$10.698.100"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "MD201 Pick Up",
+    "precio": "8794100",
+    "versiones": [
+      {
+        "version": "1.2L",
+        "precio": "$8.794.100"
+      },
+      {
+        "version": "1.2L Ac",
+        "precio": "$9.567.600"
+      },
+      {
+        "version": "1.5L XL",
+        "precio": "$10.341.100"
+      },
+      {
+        "version": "1.5L XL Ac",
+        "precio": "$10.698.100"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "MS201 Pick up",
+    "precio": "9686600",
+    "versiones": [
+      {
+        "version": "1.2L",
+        "precio": "$9.686.600"
+      },
+      {
+        "version": "1.2L Ac",
+        "precio": "$10.460.100"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "Star Truck Plus",
+    "precio": "13197100",
+    "versiones": [
+      {
+        "version": "MD301 Cabina Simple",
+        "precio": "$13.197.100"
+      },
+      {
+        "version": "MD301 Cargo Box",
+        "precio": "$14.339.500"
+      },
+      {
+        "version": "MD301 Cabina Doble",
+        "precio": "$14.744.100"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "Uni-K",
+    "precio": "26990000",
+    "versiones": [
+      {
+        "version": "Luxury",
+        "precio": "$26.990.000"
+      },
+      {
+        "version": "Elite",
+        "precio": "$28.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "UNI-T",
+    "precio": "22690000",
+    "versiones": [
+      {
+        "version": "Luxury",
+        "precio": "$22.690.000"
+      },
+      {
+        "version": "Elite",
+        "precio": "$26.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Changan",
+    "modelo": "X7 Plus",
+    "precio": "18490000",
+    "versiones": [
+      {
+        "version": "Elite 7 Asientos",
+        "precio": "$18.490.000"
+      },
+      {
+        "version": "Luxury 7 Asientos Aut",
+        "precio": "$18.990.000"
+      },
+      {
+        "version": "Elite 7 Asientos Aut",
+        "precio": "$19.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 2",
+    "precio": "10990000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$10.990.000"
+      },
+      {
+        "version": "1.5L GLS",
+        "precio": "$11.990.000"
+      },
+      {
+        "version": "1.5L GLS CVT",
+        "precio": "$12.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 2 Pro",
+    "precio": "14990000",
+    "versiones": [
+      {
+        "version": "1.0T GLX CVT",
+        "precio": "$14.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 3",
+    "precio": "12990000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$12.990.000"
+      },
+      {
+        "version": "1.5L GLS",
+        "precio": "$13.990.000"
+      },
+      {
+        "version": "1.5L GLS CVT",
+        "precio": "$14.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 3 Pro",
+    "precio": "14990000",
+    "versiones": [
+      {
+        "version": "GLS",
+        "precio": "$14.990.000"
+      },
+      {
+        "version": "GLS CVT",
+        "precio": "$15.990.000"
+      },
+      {
+        "version": "GLX CVT Turbo",
+        "precio": "$17.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 8",
+    "precio": "16490000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$16.490.000"
+      },
+      {
+        "version": "1.5L GLS",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "1.5L GLX DCT",
+        "precio": "$22.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chery",
+    "modelo": "Tiggo 8 Pro",
+    "precio": "26990000",
+    "versiones": [
+      {
+        "version": "1.6L GLX DCT",
+        "precio": "$26.990.000"
+      },
+      {
+        "version": "2.0L GLX 4X4",
+        "precio": "$32.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Blazer",
+    "precio": "46490000",
+    "versiones": [
+      {
+        "version": "3.6L RS 4x4",
+        "precio": "$46.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Bolt",
+    "precio": "44490000",
+    "versiones": [
+      {
+        "version": "LTZ",
+        "precio": "$44.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Captiva",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.5T LTZ P",
+        "precio": "$14.490.000"
+      },
+      {
+        "version": "1.5T LTZ CVT P",
+        "precio": "$16.090.000"
+      },
+      {
+        "version": "1.5T Premier P",
+        "precio": "$16.390.000"
+      },
+      {
+        "version": "1.5T Premier CVT P",
+        "precio": "$18.090.000"
+      },
+      {
+        "version": "1.5T Premier CVT P2",
+        "precio": "$18.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Colorado",
+    "precio": "29551100",
+    "versiones": [
+      {
+        "version": "2.8L LS",
+        "precio": "$29.551.100"
+      },
+      {
+        "version": "2.8L LT AWD",
+        "precio": "$31.574.100"
+      },
+      {
+        "version": "2.8L LT AWD Aut",
+        "precio": "$32.288.100"
+      },
+      {
+        "version": "2.8L LTZ AWD Aut",
+        "precio": "$36.346.566"
+      },
+      {
+        "version": "2.8L High Country AWD Aut",
+        "precio": "$38.607.566"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Colorado Z71",
+    "precio": "34904022",
+    "versiones": [
+      {
+        "version": "2.8L Aut AWD",
+        "precio": "$34.904.022"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Groove",
+    "precio": "11690000",
+    "versiones": [
+      {
+        "version": "LTZ P",
+        "precio": "$11.690.000"
+      },
+      {
+        "version": "LTZ R",
+        "precio": "$11.690.000"
+      },
+      {
+        "version": "1.5L Premier P",
+        "precio": "$12.690.000"
+      },
+      {
+        "version": "1.5L Premier R",
+        "precio": "$12.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Montana",
+    "precio": "17838100",
+    "versiones": [
+      {
+        "version": "LT 1.2",
+        "precio": "$17.838.100"
+      },
+      {
+        "version": "LTZ 1.2 Aut",
+        "precio": "$19.028.100"
+      },
+      {
+        "version": "Premier 1.2 Aut",
+        "precio": "$20.575.100"
+      },
+      {
+        "version": "RS 1.2 Aut",
+        "precio": "$21.051.100"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix",
+    "precio": "11790000",
+    "versiones": [
+      {
+        "version": "1.0T LTZ P2",
+        "precio": "$11.790.000"
+      },
+      {
+        "version": "1.0T LT R",
+        "precio": "$11.990.000"
+      },
+      {
+        "version": "1.0T Premier Aut R",
+        "precio": "$15.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix RS",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.0T R",
+        "precio": "$14.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Onix Sedán",
+    "precio": "11890000",
+    "versiones": [
+      {
+        "version": "1.0L LTZ P2",
+        "precio": "$11.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Sail",
+    "precio": "9790000",
+    "versiones": [
+      {
+        "version": "1.5 LT",
+        "precio": "$9.790.000"
+      },
+      {
+        "version": "1.5 LTZ",
+        "precio": "$10.590.000"
+      },
+      {
+        "version": "1.5 LTZ Aut",
+        "precio": "$11.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Silverado",
+    "precio": "54490100",
+    "versiones": [
+      {
+        "version": "5.3L LT Trailboss 4x4",
+        "precio": "$54.490.100"
+      },
+      {
+        "version": "6.2L ZR2 4x4",
+        "precio": "$61.749.100"
+      },
+      {
+        "version": "3.0L High Country 4x4",
+        "precio": "$63.772.100"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Spin",
+    "precio": "12990000",
+    "versiones": [
+      {
+        "version": "1.8L Premier",
+        "precio": "$12.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Spin Activ",
+    "precio": "13990000",
+    "versiones": [
+      {
+        "version": "1.8L Aut",
+        "precio": "$13.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Suburban",
+    "precio": "67990000",
+    "versiones": [
+      {
+        "version": "5.3L 4x4",
+        "precio": "$67.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Tahoe",
+    "precio": "62990000",
+    "versiones": [
+      {
+        "version": "Z71 5.3L LTZ 4x4",
+        "precio": "$62.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Tracker",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.2L LS",
+        "precio": "$14.490.000"
+      },
+      {
+        "version": "1.2L LTZ P2",
+        "precio": "$14.790.000"
+      },
+      {
+        "version": "1.2L LTZ P",
+        "precio": "$15.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Trailblazer",
+    "precio": "29990000",
+    "versiones": [
+      {
+        "version": "2.8L Premier 4x4 Aut",
+        "precio": "$29.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Chevrolet",
+    "modelo": "Traverse",
+    "precio": "42690000",
+    "versiones": [
+      {
+        "version": "3.6L RS 4x4",
+        "precio": "$42.690.000"
+      },
+      {
+        "version": "3.6L Premier 4x4",
+        "precio": "$44.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Citroën",
+    "modelo": "Berlingo Pasajeros",
+    "precio": "23490000",
+    "versiones": []
+  },
+  {
+    "marca": "Citroën",
+    "modelo": "C3",
+    "precio": "12490000",
+    "versiones": [
+      {
+        "version": "1.2L PureTech 82 Live",
+        "precio": "$12.490.000"
+      },
+      {
+        "version": "1.2L PureTech 82 Feel",
+        "precio": "$13.990.000"
+      },
+      {
+        "version": "1.2L PureTech 82 Feel Pack",
+        "precio": "$14.490.000"
+      },
+      {
+        "version": "1.6L PureTech 115 Feel Pack",
+        "precio": "$15.390.000"
+      },
+      {
+        "version": "1.5L BlueHdi 100 Live",
+        "precio": "$16.790.000"
+      },
+      {
+        "version": "1.5L BlueHDi 100 Feel",
+        "precio": "$16.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Citroën",
+    "modelo": "C4",
+    "precio": "21490000",
+    "versiones": [
+      {
+        "version": "1.2L PureTech Feel 130 S&S Aut8",
+        "precio": "$21.490.000"
+      },
+      {
+        "version": "1.2L PureTech Feel Pack 130 S&S Aut8",
+        "precio": "$23.490.000"
+      },
+      {
+        "version": "1.5L BlueHDi Feel Pack130 S&S Aut8",
+        "precio": "$24.490.000"
+      },
+      {
+        "version": "1.2L PureTech Shine 130 S&S Aut8",
+        "precio": "$24.490.000"
+      },
+      {
+        "version": "1.5L BlueHDi Shine 130 S&S Aut8",
+        "precio": "$25.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Citroën",
+    "modelo": "C5 Aircross",
+    "precio": "27990000",
+    "versiones": [
+      {
+        "version": "1.5 BlueHDi 130 S&S Aut Feel",
+        "precio": "$27.990.000"
+      },
+      {
+        "version": "1.6 PureTech 165 Aut Shine",
+        "precio": "$31.990.000"
+      },
+      {
+        "version": "1.5 BlueHDi 130 S&S Aut Shine",
+        "precio": "$46.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Citroën",
+    "modelo": "Jumper",
+    "precio": "32118100",
+    "versiones": [
+      {
+        "version": "2.0L L2H2 BlueHDi",
+        "precio": "$32.118.100"
+      },
+      {
+        "version": "2.0L L3H2 BlueHDi",
+        "precio": "$33.308.100"
+      },
+      {
+        "version": "2.2L L4H2 HDi",
+        "precio": "$34.498.100"
+      }
+    ]
+  },
+  {
+    "marca": "Cupra",
+    "modelo": "Ateca",
+    "precio": "40990000",
+    "versiones": [
+      {
+        "version": "2.0L Ateca 4Drive",
+        "precio": "$40.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Cupra",
+    "modelo": "Formentor",
+    "precio": "29490000",
+    "versiones": [
+      {
+        "version": "2.0 TSI 190HP",
+        "precio": "$29.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "500 Active",
+    "precio": "13590000",
+    "versiones": [
+      {
+        "version": "1.5L Comfort",
+        "precio": "$13.590.000"
+      },
+      {
+        "version": "1.5L Luxury",
+        "precio": "$14.090.000"
+      },
+      {
+        "version": "1.5L Luxury CVT",
+        "precio": "$14.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "560",
+    "precio": "14890000",
+    "versiones": [
+      {
+        "version": "1.8L Comfort",
+        "precio": "$14.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "580",
+    "precio": "16890000",
+    "versiones": [
+      {
+        "version": "1.8L Comfort",
+        "precio": "$16.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "Cargo Box",
+    "precio": "10460100",
+    "versiones": [
+      {
+        "version": "1.2L C21",
+        "precio": "$10.460.100"
+      },
+      {
+        "version": "1.2L C21 Ac",
+        "precio": "$10.817.100"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "Cargo Van",
+    "precio": "8913100",
+    "versiones": [
+      {
+        "version": "1.2L C25",
+        "precio": "$8.913.100"
+      },
+      {
+        "version": "1.2L C25 Ac",
+        "precio": "$9.389.100"
+      },
+      {
+        "version": "1.5L C35",
+        "precio": "$11.769.100"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "D1",
+    "precio": "16490000",
+    "versiones": [
+      {
+        "version": "Comfort",
+        "precio": "$16.490.000"
+      },
+      {
+        "version": "Luxury",
+        "precio": "$18.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "Refri Truck",
+    "precio": "12602100",
+    "versiones": [
+      {
+        "version": "1.2L C21",
+        "precio": "$12.602.100"
+      }
+    ]
+  },
+  {
+    "marca": "DFSK",
+    "modelo": "Truck",
+    "precio": "8318100",
+    "versiones": [
+      {
+        "version": "1.0L C21",
+        "precio": "$8.318.100"
+      },
+      {
+        "version": "1.2L C21",
+        "precio": "$9.151.100"
+      },
+      {
+        "version": "1.2L C21 Ac",
+        "precio": "$9.627.100"
+      },
+      {
+        "version": "1.5L CS C31",
+        "precio": "$11.055.100"
+      }
+    ]
+  },
+  {
+    "marca": "Dodge",
+    "modelo": "Durango",
+    "precio": "42990000",
+    "versiones": [
+      {
+        "version": "3.6L SXT 4x2",
+        "precio": "$42.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "Aeolus GS Cross",
+    "precio": "12690000",
+    "versiones": [
+      {
+        "version": "1.5L",
+        "precio": "$12.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "Aeolus Y3",
+    "precio": "10590000",
+    "versiones": [
+      {
+        "version": "1.5L",
+        "precio": "$10.590.000"
+      },
+      {
+        "version": "1.5L Comfort Aut",
+        "precio": "$11.590.000"
+      },
+      {
+        "version": "1.5L Luxury Aut",
+        "precio": "$12.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "S50",
+    "precio": "10790000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$10.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "S50 EV",
+    "precio": "26990000",
+    "versiones": [
+      {
+        "version": "1.5L EV",
+        "precio": "$26.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "S500",
+    "precio": "11490000",
+    "versiones": [
+      {
+        "version": "1.5L 7Pas",
+        "precio": "$11.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "SX6",
+    "precio": "13690000",
+    "versiones": [
+      {
+        "version": "1.6L",
+        "precio": "$13.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "T5",
+    "precio": "11590000",
+    "versiones": [
+      {
+        "version": "1.6",
+        "precio": "$11.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "T5 Evo",
+    "precio": "19990000",
+    "versiones": [
+      {
+        "version": "Luxury",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "Noble",
+        "precio": "$21.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Dongfeng",
+    "modelo": "T5 L",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.8L",
+        "precio": "$14.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "DS",
+    "modelo": "3 Crossback E-Tense",
+    "precio": "41490000",
+    "versiones": [
+      {
+        "version": "Bastille",
+        "precio": "$41.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "DS",
+    "modelo": "4",
+    "precio": "33490000",
+    "versiones": [
+      {
+        "version": "1.5 BlueHDi 130 Performance Line",
+        "precio": "$33.490.000"
+      },
+      {
+        "version": "Cross 1.5 BlueHDi 130 Trocadero",
+        "precio": "$38.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "DS",
+    "modelo": "7",
+    "precio": "38990000",
+    "versiones": [
+      {
+        "version": "Bastille 1.6 THP Performance Line",
+        "precio": "$38.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "DS",
+    "modelo": "7 E-Tense",
+    "precio": "57490000",
+    "versiones": [
+      {
+        "version": "Bastille 300 4x4",
+        "precio": "$57.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Exeed",
+    "modelo": "LX",
+    "precio": "29990000",
+    "versiones": [
+      {
+        "version": "1.5L Unlimited AWD",
+        "precio": "$29.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Exeed",
+    "modelo": "TXL",
+    "precio": "34490000",
+    "versiones": [
+      {
+        "version": "2.0L Unlimited",
+        "precio": "$34.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Exeed",
+    "modelo": "VX",
+    "precio": "40990000",
+    "versiones": [
+      {
+        "version": "2.0L Unlimited 4x4",
+        "precio": "$40.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Argo",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.3L Drive ELX",
+        "precio": "$14.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Argo Trekking",
+    "precio": "15490000",
+    "versiones": [
+      {
+        "version": "1.3L Trekking",
+        "precio": "$15.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Cronos",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.3L Drive",
+        "precio": "$14.490.000"
+      },
+      {
+        "version": "1.8L Drive Aut",
+        "precio": "$15.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Ducato",
+    "precio": "28548100",
+    "versiones": [
+      {
+        "version": "2.3L Maxi Cargo L1H1",
+        "precio": "$28.548.100"
+      },
+      {
+        "version": "2.3L Maxi Cargo L2H2",
+        "precio": "$29.738.100"
+      },
+      {
+        "version": "2.3L Maxi Cargo L3H2",
+        "precio": "$30.928.100"
+      },
+      {
+        "version": "2.3L Maxi Cargo L4H3",
+        "precio": "$32.118.100"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Ducato Minibús",
+    "precio": "35990000",
+    "versiones": [
+      {
+        "version": "16+1 Ejecutivo",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "16+1 Banca Aire Simple",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "16+1 Banca Aire Doble",
+        "precio": "$35.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Fastback",
+    "precio": "20990000",
+    "versiones": [
+      {
+        "version": "Audace",
+        "precio": "$20.990.000"
+      },
+      {
+        "version": "Impetus",
+        "precio": "$21.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Mobi",
+    "precio": "11790000",
+    "versiones": [
+      {
+        "version": "1.0L Like",
+        "precio": "$11.790.000"
+      },
+      {
+        "version": "1.0L Trekking",
+        "precio": "$12.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "FIAT",
+    "modelo": "Pulse",
+    "precio": "17490000",
+    "versiones": [
+      {
+        "version": "1.3L Drive Aut",
+        "precio": "$17.490.000"
+      },
+      {
+        "version": "1.0L Audace Aut",
+        "precio": "$18.990.000"
+      },
+      {
+        "version": "1.0L Impetus Aut",
+        "precio": "$20.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Bronco Sport",
+    "precio": "33090000",
+    "versiones": [
+      {
+        "version": "1.5L Big Bend",
+        "precio": "$33.090.000"
+      },
+      {
+        "version": "2.0L Wildtrak",
+        "precio": "$38.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Edge",
+    "precio": "33490000",
+    "versiones": [
+      {
+        "version": "2.0L SEL",
+        "precio": "$33.490.000"
+      },
+      {
+        "version": "2.0L SEL 4x4",
+        "precio": "$36.490.000"
+      },
+      {
+        "version": "2.0L ST V6 4x4",
+        "precio": "$41.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Escape",
+    "precio": "31990000",
+    "versiones": [
+      {
+        "version": "2.0L Titanium GTDi AWD",
+        "precio": "$31.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Escape Híbrida",
+    "precio": "38990000",
+    "versiones": [
+      {
+        "version": "2.5L Titanium Atkinson AWD",
+        "precio": "$38.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Explorer",
+    "precio": "43490000",
+    "versiones": [
+      {
+        "version": "2.3L XLT Ecoboost Aut AWD",
+        "precio": "$43.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Explorer ST",
+    "precio": "54990000",
+    "versiones": [
+      {
+        "version": "3.0L Ecoboost AWD Aut",
+        "precio": "$54.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "F-150",
+    "precio": "41400100",
+    "versiones": [
+      {
+        "version": "3.3L CS XLT 4x4",
+        "precio": "$41.400.100"
+      },
+      {
+        "version": "3.3L XLT 4x2",
+        "precio": "$45.565.100"
+      },
+      {
+        "version": "3.5L Platinum 4x4",
+        "precio": "$65.795.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "F-150 Híbrida",
+    "precio": "72459100",
+    "versiones": [
+      {
+        "version": "3.5L Platinum 4x4",
+        "precio": "$72.459.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "F-150 Raptor",
+    "precio": "90190100",
+    "versiones": [
+      {
+        "version": "3.5L Ecoboost",
+        "precio": "$90.190.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Maverick",
+    "precio": "27596100",
+    "versiones": [
+      {
+        "version": "2.0L XLT",
+        "precio": "$27.596.100"
+      },
+      {
+        "version": "2.0L Lariat 4x4",
+        "precio": "$33.546.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Maverick Híbrida",
+    "precio": "34379100",
+    "versiones": [
+      {
+        "version": "2.5L Lariat FHEV",
+        "precio": "$34.379.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Mustang",
+    "precio": "48150000",
+    "versiones": [
+      {
+        "version": "5.0L GT Premium Aut",
+        "precio": "$48.150.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Mustang Convertible",
+    "precio": "51390000",
+    "versiones": [
+      {
+        "version": "5.0L GT Premium Aut",
+        "precio": "$51.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Mustang Mach 1",
+    "precio": "55390000",
+    "versiones": [
+      {
+        "version": "5.0L",
+        "precio": "$55.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Ranger",
+    "precio": "27834100",
+    "versiones": [
+      {
+        "version": "2.0L XL 4x2",
+        "precio": "$27.834.100"
+      },
+      {
+        "version": "2.0L XLS 4x2",
+        "precio": "$30.095.100"
+      },
+      {
+        "version": "2.0L XL 4x4",
+        "precio": "$32.594.100"
+      },
+      {
+        "version": "2.0L XLS 4x4",
+        "precio": "$33.665.100"
+      },
+      {
+        "version": "2.0L XLT 4x2 Aut",
+        "precio": "$35.331.100"
+      },
+      {
+        "version": "2.0L XLT 4x4",
+        "precio": "$37.354.100"
+      },
+      {
+        "version": "2.0L XLT 4x4 Aut",
+        "precio": "$41.281.100"
+      },
+      {
+        "version": "3.0L Limited 4x4 Aut",
+        "precio": "$45.446.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Ranger Raptor",
+    "precio": "52705100",
+    "versiones": [
+      {
+        "version": "3.0L 4x4",
+        "precio": "$52.705.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Territory",
+    "precio": "21990000",
+    "versiones": [
+      {
+        "version": "1.5L Trend",
+        "precio": "$21.990.000"
+      },
+      {
+        "version": "1.5L Titanium",
+        "precio": "$26.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Transit Bus",
+    "precio": "49611100",
+    "versiones": [
+      {
+        "version": "2.2L 17+1 Pas",
+        "precio": "$49.611.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Transit Chasis",
+    "precio": "34141100",
+    "versiones": [
+      {
+        "version": "2.2L",
+        "precio": "$34.141.100"
+      }
+    ]
+  },
+  {
+    "marca": "Ford",
+    "modelo": "Transit Furgón",
+    "precio": "37235100",
+    "versiones": [
+      {
+        "version": "2.2L Largo",
+        "precio": "$37.235.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "FT-Box",
+    "precio": "29619100",
+    "versiones": [
+      {
+        "version": "2.8L Cargo Diesel",
+        "precio": "$29.619.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "FT-Crew",
+    "precio": "30333100",
+    "versiones": [
+      {
+        "version": "2.8L Diesel",
+        "precio": "$30.333.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "G7",
+    "precio": "16648100",
+    "versiones": [
+      {
+        "version": "2.0L Lite 4x2",
+        "precio": "$16.648.100"
+      },
+      {
+        "version": "2.0L Ultimate 4x2",
+        "precio": "$18.195.100"
+      },
+      {
+        "version": "2.0L Ultimate 4x4",
+        "precio": "$19.385.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "K1",
+    "precio": "24145100",
+    "versiones": [
+      {
+        "version": "2.8L Cargo Diésel",
+        "precio": "$24.145.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "K1 Pasajeros",
+    "precio": "26763100",
+    "versiones": [
+      {
+        "version": "2.8L 13+1",
+        "precio": "$26.763.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "MIDI Pick-Up",
+    "precio": "9508100",
+    "versiones": [
+      {
+        "version": "1.3L CS",
+        "precio": "$9.508.100"
+      },
+      {
+        "version": "1.3L CD",
+        "precio": "$10.341.100"
+      },
+      {
+        "version": "1.3L Refrigerado",
+        "precio": "$14.625.100"
+      }
+    ]
+  },
+  {
+    "marca": "Foton",
+    "modelo": "TM3",
+    "precio": "11531100",
+    "versiones": [
+      {
+        "version": "1.5L Cabina Simple",
+        "precio": "$11.531.100"
+      },
+      {
+        "version": "1.5L Cabina Doble",
+        "precio": "$12.483.100"
+      }
+    ]
+  },
+  {
+    "marca": "GAC",
+    "modelo": "EMKOO",
+    "precio": "19990000",
+    "versiones": [
+      {
+        "version": "1.5T GE",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "1.5T GL",
+        "precio": "$21.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "GAC",
+    "modelo": "EMZOOM",
+    "precio": "16990000",
+    "versiones": [
+      {
+        "version": "1.5T GB",
+        "precio": "$16.990.000"
+      },
+      {
+        "version": "1.5T GL",
+        "precio": "$17.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "GAC",
+    "modelo": "GS3",
+    "precio": "14190000",
+    "versiones": [
+      {
+        "version": "1.5L GB",
+        "precio": "$14.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "GAC",
+    "modelo": "GS3 Power",
+    "precio": "14590000",
+    "versiones": [
+      {
+        "version": "1.5L GB",
+        "precio": "$14.590.000"
+      },
+      {
+        "version": "1.5L GB Aut",
+        "precio": "$15.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "GAC",
+    "modelo": "GS8",
+    "precio": "27990000",
+    "versiones": [
+      {
+        "version": "GL",
+        "precio": "$27.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Geely",
+    "modelo": "Azkarra",
+    "precio": "18490000",
+    "versiones": [
+      {
+        "version": "1.5L Comfort",
+        "precio": "$18.490.000"
+      },
+      {
+        "version": "1.5L Exclusive",
+        "precio": "$20.990.000"
+      },
+      {
+        "version": "1.5L Luxury",
+        "precio": "$23.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Geely",
+    "modelo": "Geometry C",
+    "precio": "42990000",
+    "versiones": [
+      {
+        "version": "GF",
+        "precio": "$42.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Great Wall",
+    "modelo": "Poer",
+    "precio": "21408100",
+    "versiones": [
+      {
+        "version": "Elite 4x2",
+        "precio": "$21.408.100"
+      },
+      {
+        "version": "Deluxe 4x2",
+        "precio": "$23.193.100"
+      },
+      {
+        "version": "Elite 4x4",
+        "precio": "$23.788.100"
+      },
+      {
+        "version": "Deluxe 4x4",
+        "precio": "$25.335.100"
+      }
+    ]
+  },
+  {
+    "marca": "Great Wall",
+    "modelo": "Wingle 7 Diesel",
+    "precio": "18076100",
+    "versiones": [
+      {
+        "version": "Elite 4x2",
+        "precio": "$18.076.100"
+      },
+      {
+        "version": "Elite 4x4",
+        "precio": "$20.218.100"
+      },
+      {
+        "version": "Deluxe 4x4",
+        "precio": "$21.289.100"
+      }
+    ]
+  },
+  {
+    "marca": "Great Wall",
+    "modelo": "Wingle 7 Gasolina",
+    "precio": "16053100",
+    "versiones": [
+      {
+        "version": "2.0L Elite 4x2",
+        "precio": "$16.053.100"
+      },
+      {
+        "version": "2.0L Elite 4x4 Plus",
+        "precio": "$17.957.100"
+      }
+    ]
+  },
+  {
+    "marca": "Haval",
+    "modelo": "Dargo",
+    "precio": "28190000",
+    "versiones": [
+      {
+        "version": "4x4 Deluxe Aut",
+        "precio": "$28.190.000"
+      },
+      {
+        "version": "4x4 Deluxe Aut Plus",
+        "precio": "$30.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Haval",
+    "modelo": "H6",
+    "precio": "21890000",
+    "versiones": [
+      {
+        "version": "2.0T Active Aut",
+        "precio": "$21.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Haval",
+    "modelo": "H6 GT",
+    "precio": "24490000",
+    "versiones": [
+      {
+        "version": "4x2 Elite",
+        "precio": "$24.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Haval",
+    "modelo": "H6 Híbrido",
+    "precio": "26990000",
+    "versiones": [
+      {
+        "version": "1.5T Elite",
+        "precio": "$26.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Haval",
+    "modelo": "Jolion",
+    "precio": "17390000",
+    "versiones": [
+      {
+        "version": "1.5T Active",
+        "precio": "$17.390.000"
+      },
+      {
+        "version": "1.5T Elite",
+        "precio": "$18.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Haval",
+    "modelo": "Jolion Híbrido",
+    "precio": "23990000",
+    "versiones": [
+      {
+        "version": "Elite",
+        "precio": "$23.990.000"
+      },
+      {
+        "version": "Deluxe",
+        "precio": "$26.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Civic",
+    "precio": "29390000",
+    "versiones": [
+      {
+        "version": "1.5L Touring",
+        "precio": "$29.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "HR-V",
+    "precio": "22990000",
+    "versiones": [
+      {
+        "version": "LX",
+        "precio": "$22.990.000"
+      },
+      {
+        "version": "EX",
+        "precio": "$24.490.000"
+      },
+      {
+        "version": "EXL",
+        "precio": "$25.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Pilot",
+    "precio": "53990000",
+    "versiones": [
+      {
+        "version": "3.5L Touring AWD Aut",
+        "precio": "$53.990.000"
+      },
+      {
+        "version": "3.5L Elite AWD Aut",
+        "precio": "$55.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "Ridgeline",
+    "precio": "48778100",
+    "versiones": [
+      {
+        "version": "3.5L RTL",
+        "precio": "$48.778.100"
+      }
+    ]
+  },
+  {
+    "marca": "Honda",
+    "modelo": "WR-V",
+    "precio": "17290000",
+    "versiones": [
+      {
+        "version": "1.5L LX",
+        "precio": "$17.290.000"
+      },
+      {
+        "version": "1.5L LX Plus",
+        "precio": "$17.790.000"
+      },
+      {
+        "version": "1.5L LX Aut",
+        "precio": "$18.290.000"
+      },
+      {
+        "version": "1.5L EX Aut",
+        "precio": "$19.390.000"
+      },
+      {
+        "version": "1.5L EXL Aut",
+        "precio": "$20.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Accent",
+    "precio": "13490000",
+    "versiones": [
+      {
+        "version": "1.4L Plus",
+        "precio": "$13.490.000"
+      },
+      {
+        "version": "1.4L Value",
+        "precio": "$14.490.000"
+      },
+      {
+        "version": "1.6L Value Aut",
+        "precio": "$17.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Creta",
+    "precio": "17990000",
+    "versiones": [
+      {
+        "version": "1.5L Plus",
+        "precio": "$17.990.000"
+      },
+      {
+        "version": "1.5L Value",
+        "precio": "$19.790.000"
+      },
+      {
+        "version": "1.5L Plus Aut",
+        "precio": "$20.190.000"
+      },
+      {
+        "version": "1.5L Value Aut",
+        "precio": "$21.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Creta Grand",
+    "precio": "20090000",
+    "versiones": [
+      {
+        "version": "2.0L Plus",
+        "precio": "$20.090.000"
+      },
+      {
+        "version": "2.0L Value Aut",
+        "precio": "$22.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Elantra",
+    "precio": "17790000",
+    "versiones": [
+      {
+        "version": "1.6L Plus",
+        "precio": "$17.790.000"
+      },
+      {
+        "version": "2.0L Value",
+        "precio": "$19.790.000"
+      },
+      {
+        "version": "2.0L Value Aut",
+        "precio": "$22.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Grand i10 Sedán",
+    "precio": "11690000",
+    "versiones": []
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "i20",
+    "precio": "13790000",
+    "versiones": [
+      {
+        "version": "1.4L Plus",
+        "precio": "$13.790.000"
+      },
+      {
+        "version": "1.4L Value",
+        "precio": "$15.390.000"
+      },
+      {
+        "version": "1.4L Funk Edition",
+        "precio": "$16.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Ioniq 5",
+    "precio": "52890000",
+    "versiones": [
+      {
+        "version": "Premium",
+        "precio": "$52.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Kona EV",
+    "precio": "34790000",
+    "versiones": [
+      {
+        "version": "Value",
+        "precio": "$34.790.000"
+      },
+      {
+        "version": "Premium",
+        "precio": "$44.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Kona HEV",
+    "precio": "24890000",
+    "versiones": [
+      {
+        "version": "1.6L Value Aut",
+        "precio": "$24.890.000"
+      },
+      {
+        "version": "1.6L Premium Aut",
+        "precio": "$27.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Palisade",
+    "precio": "44090000",
+    "versiones": [
+      {
+        "version": "3.5L LX Premium AWD Aut",
+        "precio": "$44.090.000"
+      },
+      {
+        "version": "2.2L LX Premium AWD Aut",
+        "precio": "$47.990.000"
+      },
+      {
+        "version": "2.2L LX Limited AWD Aut",
+        "precio": "$50.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Porter",
+    "precio": "27715100",
+    "versiones": [
+      {
+        "version": "2.5L GLS Camioneta",
+        "precio": "$27.715.100"
+      },
+      {
+        "version": "2.5L GL Doble Cabina ac",
+        "precio": "$28.786.100"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Santa Fe",
+    "precio": "28490000",
+    "versiones": [
+      {
+        "version": "2.5L Plus Aut",
+        "precio": "$28.490.000"
+      },
+      {
+        "version": "2.5L Value Aut",
+        "precio": "$31.490.000"
+      },
+      {
+        "version": "2.5L Value AWD Aut",
+        "precio": "$32.290.000"
+      },
+      {
+        "version": "2.2L Value AWD Aut",
+        "precio": "$38.990.000"
+      },
+      {
+        "version": "2.2L Limited AWD Aut",
+        "precio": "$45.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Tucson",
+    "precio": "21590000",
+    "versiones": [
+      {
+        "version": "2.0L Plus",
+        "precio": "$21.590.000"
+      },
+      {
+        "version": "2.0L Plus Aut",
+        "precio": "$23.890.000"
+      },
+      {
+        "version": "1.6L Plus Aut",
+        "precio": "$25.390.000"
+      },
+      {
+        "version": "2.0L Plus AWD Aut",
+        "precio": "$26.890.000"
+      },
+      {
+        "version": "2.0L Value Aut",
+        "precio": "$27.090.000"
+      },
+      {
+        "version": "1.6L Value Aut",
+        "precio": "$30.890.000"
+      },
+      {
+        "version": "1.6L Limited Aut",
+        "precio": "$35.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Hyundai",
+    "modelo": "Venue",
+    "precio": "16290000",
+    "versiones": [
+      {
+        "version": "1.6L Plus",
+        "precio": "$16.290.000"
+      },
+      {
+        "version": "1.6L Value",
+        "precio": "$17.090.000"
+      },
+      {
+        "version": "1.6L Value Aut",
+        "precio": "$18.990.000"
+      },
+      {
+        "version": "1.6L Premium Aut",
+        "precio": "$20.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Iveco",
+    "modelo": "Daily Chasis Cabina",
+    "precio": "33308100",
+    "versiones": [
+      {
+        "version": "35-150",
+        "precio": "$33.308.100"
+      }
+    ]
+  },
+  {
+    "marca": "Iveco",
+    "modelo": "Daily Furgón",
+    "precio": "36283100",
+    "versiones": [
+      {
+        "version": "30-130",
+        "precio": "$36.283.100"
+      },
+      {
+        "version": "55-170",
+        "precio": "$44.018.100"
+      }
+    ]
+  },
+  {
+    "marca": "Iveco",
+    "modelo": "Daily Minibus",
+    "precio": "49373100",
+    "versiones": [
+      {
+        "version": "50-170 18+1",
+        "precio": "$49.373.100"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "JS2",
+    "precio": "12090000",
+    "versiones": [
+      {
+        "version": "1.5L Comfort Smart",
+        "precio": "$12.090.000"
+      },
+      {
+        "version": "1.5L Luxury",
+        "precio": "$13.140.000"
+      },
+      {
+        "version": "1.5L Comfort Aut",
+        "precio": "$13.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "JS3",
+    "precio": "16940000",
+    "versiones": [
+      {
+        "version": "1.6L Advance Aut",
+        "precio": "$16.940.000"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "JS4",
+    "precio": "17890000",
+    "versiones": [
+      {
+        "version": "1.5T Luxury Aut",
+        "precio": "$17.890.000"
+      },
+      {
+        "version": "1.5T Luxury Aut Bicolor",
+        "precio": "$18.090.000"
+      },
+      {
+        "version": "1.5T Advance Aut",
+        "precio": "$19.090.000"
+      },
+      {
+        "version": "1.5T Advance Aut Bicolor",
+        "precio": "$19.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "JS6",
+    "precio": "20890000",
+    "versiones": [
+      {
+        "version": "Comfort CE DCT",
+        "precio": "$20.890.000"
+      },
+      {
+        "version": "Luxury SE DCT",
+        "precio": "$21.990.000"
+      },
+      {
+        "version": "Advance XE DCT",
+        "precio": "$24.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "JS8",
+    "precio": "19890000",
+    "versiones": [
+      {
+        "version": "1.5L Luxury SE",
+        "precio": "$19.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "Refine Cargo",
+    "precio": "22932100",
+    "versiones": [
+      {
+        "version": "1.9L Furgón",
+        "precio": "$22.932.100"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "Refine Pasajeros",
+    "precio": "25255100",
+    "versiones": [
+      {
+        "version": "1.9L Executive 8+1",
+        "precio": "$25.255.100"
+      },
+      {
+        "version": "1.9L Executive 10+1",
+        "precio": "$26.069.100"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "Sunray Pasajeros",
+    "precio": "32543100",
+    "versiones": [
+      {
+        "version": "2.7L Green Jet 14+1",
+        "precio": "$32.543.100"
+      },
+      {
+        "version": "2.7L Green Jet 16+1",
+        "precio": "$36.632.100"
+      },
+      {
+        "version": "2.7L Green Jet 17+1",
+        "precio": "$37.108.100"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "T6 Bencina",
+    "precio": "15351600",
+    "versiones": [
+      {
+        "version": "2.0L Comfort 4x2",
+        "precio": "$15.351.600"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "T6 Diesel",
+    "precio": "19200100",
+    "versiones": [
+      {
+        "version": "2.0L Comfort 4x2",
+        "precio": "$19.200.100"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "T8",
+    "precio": "19102600",
+    "versiones": [
+      {
+        "version": "2.0L Comfort 4x2",
+        "precio": "$19.102.600"
+      },
+      {
+        "version": "2.0L Advance 4x2",
+        "precio": "$21.325.600"
+      },
+      {
+        "version": "2.0L Comfort 4x4",
+        "precio": "$21.523.100"
+      },
+      {
+        "version": "2.0L Advance 4x4",
+        "precio": "$23.191.600"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "T8 Pro",
+    "precio": "22039600",
+    "versiones": [
+      {
+        "version": "Luxury 4x2",
+        "precio": "$22.039.600"
+      },
+      {
+        "version": "Luxury 4x4",
+        "precio": "$23.905.600"
+      },
+      {
+        "version": "Advance 4x4",
+        "precio": "$26.285.600"
+      }
+    ]
+  },
+  {
+    "marca": "JAC",
+    "modelo": "X200",
+    "precio": "20176100",
+    "versiones": [
+      {
+        "version": "2.0L Chasis Comfort",
+        "precio": "$20.176.100"
+      },
+      {
+        "version": "2.0L Pickup Comfort",
+        "precio": "$20.885.100"
+      },
+      {
+        "version": "2.0L Chasis Luxury",
+        "precio": "$20.990.100"
+      },
+      {
+        "version": "2.0L Pickup Luxury",
+        "precio": "$22.480.100"
+      }
+    ]
+  },
+  {
+    "marca": "Jaguar",
+    "modelo": "E-Pace",
+    "precio": "67900000",
+    "versiones": [
+      {
+        "version": "S",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L",
+        "precio": "$67.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jaguar",
+    "modelo": "F-Pace",
+    "precio": "66900000",
+    "versiones": [
+      {
+        "version": "S",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "R-Sport",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L Prestige",
+        "precio": "$66.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jaguar",
+    "modelo": "F-Type",
+    "precio": "113900000",
+    "versiones": [
+      {
+        "version": "2.0L",
+        "precio": "$113.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jaguar",
+    "modelo": "XE",
+    "precio": "53900000",
+    "versiones": [
+      {
+        "version": "3.0L S",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L R-Sport",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L Prestige",
+        "precio": "$53.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jaguar",
+    "modelo": "XF",
+    "precio": "73900000",
+    "versiones": [
+      {
+        "version": "2.0L R-Sport Plus",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L R-Sport",
+        "precio": "$73.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Commander",
+    "precio": "38990000",
+    "versiones": [
+      {
+        "version": "1.3L Overland 4x2",
+        "precio": "$38.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Compass",
+    "precio": "25990000",
+    "versiones": [
+      {
+        "version": "1.3L Sport",
+        "precio": "$25.990.000"
+      },
+      {
+        "version": "1.3L Longitude",
+        "precio": "$27.990.000"
+      },
+      {
+        "version": "1.3L Limited",
+        "precio": "$31.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Grand Cherokee",
+    "precio": "56990000",
+    "versiones": [
+      {
+        "version": "3.6L Limited",
+        "precio": "$56.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Renegade",
+    "precio": "22990000",
+    "versiones": [
+      {
+        "version": "1.3L Sport",
+        "precio": "$22.990.000"
+      },
+      {
+        "version": "1.3L Longitude",
+        "precio": "$24.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jeep",
+    "modelo": "Wrangler",
+    "precio": "55990000",
+    "versiones": [
+      {
+        "version": "3.6L Unlimited Sahara",
+        "precio": "$55.990.000"
+      },
+      {
+        "version": "3.6L Unlimited Rubicon",
+        "precio": "$59.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jetour",
+    "modelo": "X70",
+    "precio": "12990000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$12.990.000"
+      },
+      {
+        "version": "1.5L GLS",
+        "precio": "$14.290.000"
+      },
+      {
+        "version": "1.5L GLX Aut",
+        "precio": "$15.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Jetour",
+    "modelo": "X70 Plus",
+    "precio": "16990000",
+    "versiones": [
+      {
+        "version": "1.5T",
+        "precio": "$16.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "JMC",
+    "modelo": "Touring",
+    "precio": "29738100",
+    "versiones": [
+      {
+        "version": "2.8L 14Pas",
+        "precio": "$29.738.100"
+      }
+    ]
+  },
+  {
+    "marca": "JMC",
+    "modelo": "Vigus Plus",
+    "precio": "19504100",
+    "versiones": [
+      {
+        "version": "2.4L 4x2",
+        "precio": "$19.504.100"
+      },
+      {
+        "version": "2.4L 4x4",
+        "precio": "$21.646.100"
+      }
+    ]
+  },
+  {
+    "marca": "JMC",
+    "modelo": "Vigus Pro",
+    "precio": "25573100",
+    "versiones": [
+      {
+        "version": "2.0L 4x2 Aut",
+        "precio": "$25.573.100"
+      },
+      {
+        "version": "2.0L 4x4 Aut",
+        "precio": "$27.358.100"
+      }
+    ]
+  },
+  {
+    "marca": "Kaiyi",
+    "modelo": "X3 Pro",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "1.5L Aut",
+        "precio": "$14.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Karry",
+    "modelo": "Q22",
+    "precio": "6814100",
+    "versiones": [
+      {
+        "version": "1.3L",
+        "precio": "$6.814.100"
+      },
+      {
+        "version": "1.5L",
+        "precio": "$8.123.100"
+      }
+    ]
+  },
+  {
+    "marca": "Karry",
+    "modelo": "Q22 Doble Cabina",
+    "precio": "8718100",
+    "versiones": [
+      {
+        "version": "1.3L",
+        "precio": "$8.718.100"
+      },
+      {
+        "version": "1.5L",
+        "precio": "$10.265.100"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Carens",
+    "precio": "18690000",
+    "versiones": [
+      {
+        "version": "1.5L LX",
+        "precio": "$18.690.000"
+      },
+      {
+        "version": "1.4L EX Turbo",
+        "precio": "$22.490.000"
+      },
+      {
+        "version": "1.4L EX Turbo Full",
+        "precio": "$23.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Carnival",
+    "precio": "38390000",
+    "versiones": [
+      {
+        "version": "3.5L EX GSL",
+        "precio": "$38.390.000"
+      },
+      {
+        "version": "2.2L EX DSL Full",
+        "precio": "$42.490.000"
+      },
+      {
+        "version": "2.2L EX DSL LTD",
+        "precio": "$47.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Cerato 5",
+    "precio": "23490000",
+    "versiones": [
+      {
+        "version": "1.6L EX",
+        "precio": "$23.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Frontier",
+    "precio": "27990000",
+    "versiones": [
+      {
+        "version": "2.5L Deluxe",
+        "precio": "$27.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Frontier Chasis",
+    "precio": "25990000",
+    "versiones": [
+      {
+        "version": "2.5L LX",
+        "precio": "$25.990.000"
+      },
+      {
+        "version": "2.5L Deluxe",
+        "precio": "$26.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Frontier Doble Cabina",
+    "precio": "28990000",
+    "versiones": [
+      {
+        "version": "2.5L LX Deluxe",
+        "precio": "$28.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Morning",
+    "precio": "11390000",
+    "versiones": [
+      {
+        "version": "1.2L EX Full",
+        "precio": "$11.390.000"
+      },
+      {
+        "version": "1.2L EX Full Aut",
+        "precio": "$12.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Niro",
+    "precio": "27690000",
+    "versiones": [
+      {
+        "version": "1.6L LX GDI",
+        "precio": "$27.690.000"
+      },
+      {
+        "version": "1.6L EX GDI Full",
+        "precio": "$34.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Niro EV",
+    "precio": "45490000",
+    "versiones": [
+      {
+        "version": "LX",
+        "precio": "$45.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Rio 4 C",
+    "precio": "15990000",
+    "versiones": [
+      {
+        "version": "1.4L EX CI Full",
+        "precio": "$15.990.000"
+      },
+      {
+        "version": "1.4L EX CI Full Aut",
+        "precio": "$17.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Rio 5",
+    "precio": "15390000",
+    "versiones": [
+      {
+        "version": "1.4L EX CI Full",
+        "precio": "$15.390.000"
+      },
+      {
+        "version": "1.4L EX CI Full Aut",
+        "precio": "$17.190.000"
+      },
+      {
+        "version": "1.6L EX CI Sport",
+        "precio": "$17.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Seltos",
+    "precio": "18490000",
+    "versiones": [
+      {
+        "version": "1.5L EX",
+        "precio": "$18.490.000"
+      },
+      {
+        "version": "1.5L EX IVT",
+        "precio": "$20.490.000"
+      },
+      {
+        "version": "1.4L EX DCT Turbo",
+        "precio": "$22.490.000"
+      },
+      {
+        "version": "1.4L EX DCT Turbo Full",
+        "precio": "$24.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Soluto",
+    "precio": "10990000",
+    "versiones": [
+      {
+        "version": "1.4L LX AC",
+        "precio": "$10.990.000"
+      },
+      {
+        "version": "1.4L EX",
+        "precio": "$11.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Sorento",
+    "precio": "34990000",
+    "versiones": [
+      {
+        "version": "2.5L EX GSL 2WD Aut",
+        "precio": "$34.990.000"
+      },
+      {
+        "version": "2.5L EX GSL 2WD Full Aut",
+        "precio": "$38.390.000"
+      },
+      {
+        "version": "2.5L EX GSL AWD Full Aut",
+        "precio": "$41.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Sportage",
+    "precio": "27290000",
+    "versiones": [
+      {
+        "version": "2.0L EX GSL CI Aut",
+        "precio": "$27.290.000"
+      },
+      {
+        "version": "2.0L EX GSL AWD Aut",
+        "precio": "$29.990.000"
+      },
+      {
+        "version": "2.0L EX DSL CI Aut",
+        "precio": "$30.490.000"
+      },
+      {
+        "version": "1.6L EX GSL AWD Turbo",
+        "precio": "$34.890.000"
+      },
+      {
+        "version": "2.0L EX DSL AWD Aut",
+        "precio": "$35.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Kia",
+    "modelo": "Stinger",
+    "precio": "47990000",
+    "versiones": [
+      {
+        "version": "GT",
+        "precio": "$47.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "KYC",
+    "modelo": "Gran Mamut Cabina Doble",
+    "precio": "10055100",
+    "versiones": [
+      {
+        "version": "1.6L",
+        "precio": "$10.055.100"
+      }
+    ]
+  },
+  {
+    "marca": "KYC",
+    "modelo": "Gran Mamut Cabina Simple",
+    "precio": "8449000",
+    "versiones": [
+      {
+        "version": "1.5L",
+        "precio": "$8.449.000"
+      },
+      {
+        "version": "1.6L Ac",
+        "precio": "$9.865.100"
+      }
+    ]
+  },
+  {
+    "marca": "KYC",
+    "modelo": "Gran Mamut Cargo Box",
+    "precio": "10293100",
+    "versiones": [
+      {
+        "version": "1.5L",
+        "precio": "$10.293.100"
+      },
+      {
+        "version": "1.6L",
+        "precio": "$11.245.100"
+      }
+    ]
+  },
+  {
+    "marca": "KYC",
+    "modelo": "X5",
+    "precio": "9865100",
+    "versiones": [
+      {
+        "version": "1.6L Cabina Simple Ac",
+        "precio": "$9.865.100"
+      },
+      {
+        "version": "1.5L Doble Cabina",
+        "precio": "$10.090.000"
+      },
+      {
+        "version": "1.5L Cabina Simple Ac",
+        "precio": "$11.424.000"
+      },
+      {
+        "version": "1.6L Doble Cabina Ac",
+        "precio": "$12.554.100"
+      },
+      {
+        "version": "1.5L Cargo Box",
+        "precio": "$15.934.100"
+      }
+    ]
+  },
+  {
+    "marca": "KYC",
+    "modelo": "X5 Plus",
+    "precio": "12673100",
+    "versiones": [
+      {
+        "version": "1.8L Cargo Box",
+        "precio": "$12.673.100"
+      },
+      {
+        "version": "1.8L Cabina Simple",
+        "precio": "$14.637.000"
+      }
+    ]
+  },
+  {
+    "marca": "Land Rover",
+    "modelo": "Defender",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "3.0L SE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L S",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "3.0L First Edition",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Land Rover",
+    "modelo": "Discovery",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "3.0L SE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "3.0L HSE Luxury",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "3.0L HSE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L SE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L S",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L HSE Luxury",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L HSE",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Land Rover",
+    "modelo": "Range Rover Sport",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "SVR",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "SE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "HSE Dynamic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "HSE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "Autobiography Dynamic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Land Rover",
+    "modelo": "Range Rover Velar",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "SE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "S",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L R-Dynamic SE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "HSE",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.0L",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelo": "IS",
+    "precio": "44990000",
+    "versiones": [
+      {
+        "version": "300 Lux",
+        "precio": "$44.990.000"
+      },
+      {
+        "version": "300 F Sport",
+        "precio": "$48.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelo": "LS",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "500h",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelo": "LX",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "500D F Sport",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelo": "NX",
+    "precio": "48990000",
+    "versiones": [
+      {
+        "version": "250 Premium",
+        "precio": "$48.990.000"
+      },
+      {
+        "version": "350h Premium",
+        "precio": "$51.790.000"
+      },
+      {
+        "version": "350h Luxury",
+        "precio": "$65.990.000"
+      },
+      {
+        "version": "350h F Sport",
+        "precio": "$69.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelo": "RC",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "F",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Lexus",
+    "modelo": "RX",
+    "precio": "59990000",
+    "versiones": [
+      {
+        "version": "350 Premium",
+        "precio": "$59.990.000"
+      },
+      {
+        "version": "350h Lux",
+        "precio": "$74.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mahindra",
+    "modelo": "Pik Up",
+    "precio": "14744100",
+    "versiones": [
+      {
+        "version": "2.2L 4x2 Work",
+        "precio": "$14.744.100"
+      }
+    ]
+  },
+  {
+    "marca": "Mahindra",
+    "modelo": "Pik Up Cabina Doble",
+    "precio": "19266100",
+    "versiones": [
+      {
+        "version": "2.2L 4x4 Work",
+        "precio": "$19.266.100"
+      },
+      {
+        "version": "2.2L DC 4x4 Full",
+        "precio": "$20.932.100"
+      }
+    ]
+  },
+  {
+    "marca": "Mahindra",
+    "modelo": "XUV 300",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "Luxury",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "Elite",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "Comfort",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mahindra",
+    "modelo": "XUV 500",
+    "precio": "19290000",
+    "versiones": [
+      {
+        "version": "2.0L 4x2 Base",
+        "precio": "$19.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "Deliver 9 Cargo",
+    "precio": "32713100",
+    "versiones": [
+      {
+        "version": "L3H3 RWD GLX",
+        "precio": "$32.713.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "Deliver 9 Pasajeros",
+    "precio": "39377100",
+    "versiones": [
+      {
+        "version": "2.0L L3H2",
+        "precio": "$39.377.100"
+      },
+      {
+        "version": "2.0L L3H3 Aut",
+        "precio": "$42.352.100"
+      },
+      {
+        "version": "2.0L L3H3 Doble Rodado",
+        "precio": "$42.352.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "eDeliver 3",
+    "precio": "35700",
+    "versiones": [
+      {
+        "version": "3",
+        "precio": "u$s35.700"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "eDeliver 9",
+    "precio": "59500",
+    "versiones": [
+      {
+        "version": "L3H2",
+        "precio": "u$s59.500"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "G-10 Cargo D20",
+    "precio": "18552100",
+    "versiones": [
+      {
+        "version": "1.9L",
+        "precio": "$18.552.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "G-10 Ejecutiva",
+    "precio": "27834100",
+    "versiones": [
+      {
+        "version": "6+1",
+        "precio": "$27.834.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "G-10 Pasajeros D20",
+    "precio": "26644100",
+    "versiones": [
+      {
+        "version": "2.0L 9+1 D20",
+        "precio": "$26.644.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "T60",
+    "precio": "22836100",
+    "versiones": [
+      {
+        "version": "2.8L DX 4x2 CS",
+        "precio": "$22.836.100"
+      },
+      {
+        "version": "2.8L DX 4x4 CS",
+        "precio": "$23.312.100"
+      },
+      {
+        "version": "2.8L GL 4x2 Aut",
+        "precio": "$24.502.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "T60 D20",
+    "precio": "23788100",
+    "versiones": [
+      {
+        "version": "2.0L GL 4x4",
+        "precio": "$23.788.100"
+      },
+      {
+        "version": "2.0L Ancap 4x4",
+        "precio": "$25.692.100"
+      },
+      {
+        "version": "2.0L GLX 4x4 Aut",
+        "precio": "$26.168.100"
+      }
+    ]
+  },
+  {
+    "marca": "Maxus",
+    "modelo": "T90 EV",
+    "precio": "59500",
+    "versiones": [
+      {
+        "version": "4x2",
+        "precio": "u$s59.500"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "2",
+    "precio": "16390000",
+    "versiones": [
+      {
+        "version": "1.5L V",
+        "precio": "$16.390.000"
+      },
+      {
+        "version": "1.5L V Aut",
+        "precio": "$17.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "2 Sport",
+    "precio": "16390000",
+    "versiones": [
+      {
+        "version": "1.5L S",
+        "precio": "$16.390.000"
+      },
+      {
+        "version": "1.5L V",
+        "precio": "$17.990.000"
+      },
+      {
+        "version": "1.5L GT Aut",
+        "precio": "$19.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "3",
+    "precio": "18390000",
+    "versiones": [
+      {
+        "version": "2.0L S",
+        "precio": "$18.390.000"
+      },
+      {
+        "version": "2.0L V",
+        "precio": "$19.890.000"
+      },
+      {
+        "version": "2.0L V Aut",
+        "precio": "$21.890.000"
+      },
+      {
+        "version": "2.5L GTX Aut",
+        "precio": "$24.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "3 Sport",
+    "precio": "18990000",
+    "versiones": [
+      {
+        "version": "2.0L S",
+        "precio": "$18.990.000"
+      },
+      {
+        "version": "2.0L V",
+        "precio": "$20.790.000"
+      },
+      {
+        "version": "2.0L V Aut",
+        "precio": "$21.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "6",
+    "precio": "20590000",
+    "versiones": [
+      {
+        "version": "2.0L V",
+        "precio": "$20.590.000"
+      },
+      {
+        "version": "2.5L V Aut",
+        "precio": "$22.590.000"
+      },
+      {
+        "version": "2.5T GTX Plus",
+        "precio": "$30.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "BT-50",
+    "precio": "35790000",
+    "versiones": [
+      {
+        "version": "3.0L 4x4",
+        "precio": "$35.790.000"
+      },
+      {
+        "version": "3.0L 4x4 Aut",
+        "precio": "$37.490.000"
+      },
+      {
+        "version": "3.0L 4x4 High",
+        "precio": "$40.290.000"
+      },
+      {
+        "version": "3.0L 4x4 High Aut",
+        "precio": "$41.390.000"
+      },
+      {
+        "version": "3.0L 4x4 High Plus Aut",
+        "precio": "$43.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-30",
+    "precio": "20790000",
+    "versiones": [
+      {
+        "version": "2.0L  S",
+        "precio": "$20.790.000"
+      },
+      {
+        "version": "2.0L S Aut",
+        "precio": "$21.690.000"
+      },
+      {
+        "version": "2.0L V",
+        "precio": "$22.590.000"
+      },
+      {
+        "version": "2.0L V Aut",
+        "precio": "$23.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-5",
+    "precio": "22990000",
+    "versiones": [
+      {
+        "version": "2.0L Core",
+        "precio": "$22.990.000"
+      },
+      {
+        "version": "2.0L Core Aut",
+        "precio": "$25.190.000"
+      },
+      {
+        "version": "2.0L Core Aut 4x4",
+        "precio": "$26.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-60",
+    "precio": "40990000",
+    "versiones": [
+      {
+        "version": "2.5L Prime",
+        "precio": "$40.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "CX-9",
+    "precio": "31490000",
+    "versiones": [
+      {
+        "version": "2.5T R Aut",
+        "precio": "$31.490.000"
+      },
+      {
+        "version": "2.5T GT Aut 4x4",
+        "precio": "$35.590.000"
+      },
+      {
+        "version": "2.5T GTX Aut 4x4",
+        "precio": "$39.290.000"
+      },
+      {
+        "version": "2.5T GTX Aut 4x4 Plus",
+        "precio": "$40.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "MX-5",
+    "precio": "31790000",
+    "versiones": [
+      {
+        "version": "2.0L RF Aut",
+        "precio": "$31.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mazda",
+    "modelo": "MX-5 Convertible",
+    "precio": "29790000",
+    "versiones": [
+      {
+        "version": "2.0L RF Aut",
+        "precio": "$29.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase B",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "200",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase C Convertible",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "200 Cabriolet",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase C Coupé",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "300",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "200",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase C Coupé AMG",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "43",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase C Sedán",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "C 200 Avantgarde",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "C180 Avantgarde",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase E Convertible AMG",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "E 53 AMG 4Matic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase E Coupé",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "200",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase E Coupé AMG",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "53 4Matic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase E Sedán",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "200",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "350",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase E Sedán AMG",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "63 S 4Matic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "53 4Matic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase G",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "63 AMG",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase GLA",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "220d 4Matic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "200",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase GLC",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "200 Coupé",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "200 4Matic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "220d 4Matic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase GLC AMG",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "63 S 4Matic Coupé",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase GLE",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "400d 4Matic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "300d 4Matic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "400d 4Matic Coupé",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "350d 4Matic Coupé",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "450 4Matic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase GLE AMG",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "63 S 4Matic Coupé",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "53 4Matic Coupé",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Clase S",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "S 580 4Matic",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "S 450 4Matic",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "EQS",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "450",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Sprinter Furgón",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "516",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Sprinter Minivan",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "416 16+1 Fénix",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "517 19+1 Aut",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "416 16+1 Aut",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "516 19+1",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Mercedes",
+    "modelo": "Vito",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "Tourer 116",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "3",
+    "precio": "10290000",
+    "versiones": [
+      {
+        "version": "1.5L Std",
+        "precio": "$10.290.000"
+      },
+      {
+        "version": "1.5L Std Aut",
+        "precio": "$11.390.000"
+      },
+      {
+        "version": "1.5L Com Aut",
+        "precio": "$12.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "5",
+    "precio": "12190000",
+    "versiones": [
+      {
+        "version": "1.5L COM",
+        "precio": "$12.190.000"
+      },
+      {
+        "version": "1.5L DLX",
+        "precio": "$13.190.000"
+      },
+      {
+        "version": "1.5L COM CVT",
+        "precio": "$13.290.000"
+      },
+      {
+        "version": "1.5L DLX CVT",
+        "precio": "$14.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "6",
+    "precio": "14290000",
+    "versiones": [
+      {
+        "version": "1.5L Com",
+        "precio": "$14.290.000"
+      },
+      {
+        "version": "1.5L DLX",
+        "precio": "$15.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "GT",
+    "precio": "14790000",
+    "versiones": [
+      {
+        "version": "1.5L Com",
+        "precio": "$14.790.000"
+      },
+      {
+        "version": "1.5L Com CVT",
+        "precio": "$16.490.000"
+      },
+      {
+        "version": "1.5L DLX DCT",
+        "precio": "$19.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "HS",
+    "precio": "22890000",
+    "versiones": [
+      {
+        "version": "2.0L DCT Trophy AWD",
+        "precio": "$22.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "One",
+    "precio": "19790000",
+    "versiones": [
+      {
+        "version": "1.5T CVT DLX",
+        "precio": "$19.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "RX5",
+    "precio": "16990000",
+    "versiones": [
+      {
+        "version": "1.5T Com",
+        "precio": "$16.990.000"
+      },
+      {
+        "version": "1.5T Com DCT",
+        "precio": "$18.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "ZS",
+    "precio": "12090000",
+    "versiones": [
+      {
+        "version": "1.5L STD",
+        "precio": "$12.090.000"
+      },
+      {
+        "version": "1.5L STD Aut",
+        "precio": "$13.290.000"
+      },
+      {
+        "version": "1.5L Comfort",
+        "precio": "$13.290.000"
+      },
+      {
+        "version": "1.5L Comfort Aut",
+        "precio": "$14.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "MG",
+    "modelo": "ZX",
+    "precio": "14290000",
+    "versiones": [
+      {
+        "version": "1.5L  COM",
+        "precio": "$14.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "Cooper",
+    "precio": "25990000",
+    "versiones": [
+      {
+        "version": "1.5L Essential",
+        "precio": "$25.990.000"
+      },
+      {
+        "version": "2.0L Sport Pack Aut",
+        "precio": "$36.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "Cooper 5 Puertas",
+    "precio": "29990000",
+    "versiones": [
+      {
+        "version": "1.5L Classic Aut",
+        "precio": "$29.990.000"
+      },
+      {
+        "version": "2.0L S Sport Pack",
+        "precio": "$35.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "Cooper Cabrio",
+    "precio": "39990000",
+    "versiones": [
+      {
+        "version": "2.0L S Iconic Aut",
+        "precio": "$39.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "Cooper Clubman",
+    "precio": "36990000",
+    "versiones": [
+      {
+        "version": "2.0L S Iconic Aut",
+        "precio": "$36.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "Cooper Countryman",
+    "precio": "33490000",
+    "versiones": [
+      {
+        "version": "1.5L Classic Aut",
+        "precio": "$33.490.000"
+      },
+      {
+        "version": "2.0L S Iconic Aut",
+        "precio": "$38.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "Cooper Countryman SE",
+    "precio": "48990000",
+    "versiones": [
+      {
+        "version": "1.5L ALL4 Iconic",
+        "precio": "$48.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "MINI",
+    "modelo": "John Cooper Works",
+    "precio": "43490000",
+    "versiones": [
+      {
+        "version": "3P 2.0LHatchback",
+        "precio": "$43.490.000"
+      },
+      {
+        "version": "Countryman 2.0L ALL4SUV",
+        "precio": "$45.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mitsubishi",
+    "modelo": "ASX",
+    "precio": "18990000",
+    "versiones": [
+      {
+        "version": "1.6L GL 4x2",
+        "precio": "$18.990.000"
+      },
+      {
+        "version": "1.6L GLS 4x2",
+        "precio": "$20.690.000"
+      },
+      {
+        "version": "2.0L GLS 4x2 Aut",
+        "precio": "$22.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Mitsubishi",
+    "modelo": "L-200",
+    "precio": "21290000",
+    "versiones": [
+      {
+        "version": "2.4L Work CR 4X2",
+        "precio": "$21.290.000"
+      },
+      {
+        "version": "2.4L Katana CR 4X2",
+        "precio": "$22.690.000"
+      },
+      {
+        "version": "2.4L Katana CRT 4X4",
+        "precio": "$32.118.100"
+      }
+    ]
+  },
+  {
+    "marca": "Mitsubishi",
+    "modelo": "L200 Dakar",
+    "precio": "36164100",
+    "versiones": [
+      {
+        "version": "2.4L Dakar",
+        "precio": "$36.164.100"
+      },
+      {
+        "version": "2.4L Dakar Aut",
+        "precio": "$37.949.100"
+      },
+      {
+        "version": "2.4L Dakar High Power",
+        "precio": "$40.805.100"
+      },
+      {
+        "version": "2.4L Dakar High Power Aut",
+        "precio": "$41.876.100"
+      }
+    ]
+  },
+  {
+    "marca": "Mitsubishi",
+    "modelo": "Outlander",
+    "precio": "27990000",
+    "versiones": [
+      {
+        "version": "2.5L GL 4x2 5 Pas",
+        "precio": "$27.990.000"
+      },
+      {
+        "version": "2.5L GLX 4x2 7 Pas",
+        "precio": "$30.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Kicks",
+    "precio": "17124477",
+    "versiones": [
+      {
+        "version": "1.6L Sense",
+        "precio": "$17.124.477"
+      },
+      {
+        "version": "1.6L Advance",
+        "precio": "$18.442.274"
+      },
+      {
+        "version": "1.6L Advance CVT",
+        "precio": "$19.860.070"
+      },
+      {
+        "version": "1.6L Exclusive Aut Rock Edition",
+        "precio": "$22.190.000"
+      },
+      {
+        "version": "1.6L Exclusive CVT",
+        "precio": "$22.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "LEAF",
+    "precio": "42745196",
+    "versiones": [
+      {
+        "version": "Tekna",
+        "precio": "$42.745.196"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Navara",
+    "precio": "29270520",
+    "versiones": [
+      {
+        "version": "SE 4x2",
+        "precio": "$29.270.520"
+      },
+      {
+        "version": "XE 4x2",
+        "precio": "$30.399.440"
+      },
+      {
+        "version": "SE 4x4",
+        "precio": "$35.134.040"
+      },
+      {
+        "version": "XE 4x4",
+        "precio": "$37.414.032"
+      },
+      {
+        "version": "XE 4x4 Aut",
+        "precio": "$40.300.656"
+      },
+      {
+        "version": "LE 4x4",
+        "precio": "$41.488.249"
+      },
+      {
+        "version": "LE 4x4 Aut",
+        "precio": "$44.849.321"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Pathfinder",
+    "precio": "45732540",
+    "versiones": [
+      {
+        "version": "3.5L Sense 4x2",
+        "precio": "$45.732.540"
+      },
+      {
+        "version": "3.5L Advance 4x2",
+        "precio": "$48.832.540"
+      },
+      {
+        "version": "3.5L Advance 4x4",
+        "precio": "$51.532.540"
+      },
+      {
+        "version": "3.5L Exclusive 4x4",
+        "precio": "$53.632.540"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Qashqai",
+    "precio": "25413791",
+    "versiones": [
+      {
+        "version": "Sense",
+        "precio": "$25.413.791"
+      },
+      {
+        "version": "Advance",
+        "precio": "$27.013.791"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "Versa",
+    "precio": "15005645",
+    "versiones": [
+      {
+        "version": "1.6L Sense",
+        "precio": "$15.005.645"
+      }
+    ]
+  },
+  {
+    "marca": "Nissan",
+    "modelo": "X-Trail",
+    "precio": "32023949",
+    "versiones": [
+      {
+        "version": "2.5L Advance 3Row",
+        "precio": "$32.023.949"
+      },
+      {
+        "version": "2.5L Exclusive 3Row 4x4",
+        "precio": "$34.223.949"
+      }
+    ]
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Combo",
+    "precio": "20932100",
+    "versiones": [
+      {
+        "version": "1.6L TD",
+        "precio": "$20.932.100"
+      }
+    ]
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Corsa",
+    "precio": "15990000",
+    "versiones": [
+      {
+        "version": "1.2L Edition",
+        "precio": "$15.990.000"
+      },
+      {
+        "version": "1.2T Edition Aut",
+        "precio": "$19.090.000"
+      },
+      {
+        "version": "1.2T GS Line Aut",
+        "precio": "$21.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Crossland",
+    "precio": "18690000",
+    "versiones": [
+      {
+        "version": "1.2L Edition",
+        "precio": "$18.690.000"
+      },
+      {
+        "version": "1.2L Edition Aut",
+        "precio": "$20.190.000"
+      },
+      {
+        "version": "1.5L Edition",
+        "precio": "$20.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Grandland",
+    "precio": "24790000",
+    "versiones": [
+      {
+        "version": "1.2L GS",
+        "precio": "$24.790.000"
+      },
+      {
+        "version": "1.2L GS Aut",
+        "precio": "$26.490.000"
+      },
+      {
+        "version": "1.5 TD Aut",
+        "precio": "$28.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Mokka",
+    "precio": "21490000",
+    "versiones": [
+      {
+        "version": "1.2L Elegance",
+        "precio": "$21.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Opel",
+    "modelo": "Vivaro",
+    "precio": "27834100",
+    "versiones": [
+      {
+        "version": "2.0L TD",
+        "precio": "$27.834.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "2008",
+    "precio": "21590000",
+    "versiones": [
+      {
+        "version": "1.2L Active Pack Puretech",
+        "precio": "$21.590.000"
+      },
+      {
+        "version": "1.2L Allure Pack Puretech",
+        "precio": "$23.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "208",
+    "precio": "15790000",
+    "versiones": [
+      {
+        "version": "1.2L Style Pack PureTech 75HP",
+        "precio": "$15.790.000"
+      },
+      {
+        "version": "1.2L Active Pack PureTech 75HP",
+        "precio": "$16.890.000"
+      },
+      {
+        "version": "1.5L Active Pack BlueHDi 100HP",
+        "precio": "$19.390.000"
+      },
+      {
+        "version": "1.2L Allure Pack PureTech 100HP",
+        "precio": "$19.690.000"
+      },
+      {
+        "version": "1.2L Allure Pack PureTech 130HP Aut",
+        "precio": "$21.590.000"
+      },
+      {
+        "version": "1.2L GT PureTech 130HP Aut",
+        "precio": "$23.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "3008",
+    "precio": "30490000",
+    "versiones": [
+      {
+        "version": "1.5L BlueHDI Allure Pack Aut",
+        "precio": "$30.490.000"
+      },
+      {
+        "version": "1.6L PureTech GT Black Pack",
+        "precio": "$32.890.000"
+      },
+      {
+        "version": "1.5L BlueHDI GT Aut",
+        "precio": "$33.290.000"
+      },
+      {
+        "version": "1.5L BlueHDI GT Black Pack",
+        "precio": "$33.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "308",
+    "precio": "25290000",
+    "versiones": [
+      {
+        "version": "1.2L Allure Pack Puretech 130HP Aut",
+        "precio": "$25.290.000"
+      },
+      {
+        "version": "1.5L Allure Pack BlueHDI Aut 130HP",
+        "precio": "$27.090.000"
+      },
+      {
+        "version": "1.2L GT Pack Puretech Aut 130HP",
+        "precio": "$28.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "5008",
+    "precio": "30090000",
+    "versiones": [
+      {
+        "version": "1.6L Allure Pack 165HP Aut",
+        "precio": "$30.090.000"
+      },
+      {
+        "version": "1.5L Allure Pack BlueHDi 130HP Aut",
+        "precio": "$31.890.000"
+      },
+      {
+        "version": "1.6L GT Puretech 180HP Aut",
+        "precio": "$34.390.000"
+      },
+      {
+        "version": "1.6L GT Puretech Black Pack",
+        "precio": "$34.390.000"
+      },
+      {
+        "version": "1.5L GT BlueHDi 130HP Aut",
+        "precio": "$34.790.000"
+      },
+      {
+        "version": "1.5L GT BlueHDi Black Pack",
+        "precio": "$34.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "Boxer",
+    "precio": "34974100",
+    "versiones": [
+      {
+        "version": "2.0L Furgón L4H2",
+        "precio": "$34.974.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "Boxer Chasis",
+    "precio": "29738100",
+    "versiones": [
+      {
+        "version": "2.2L Chasis L3 CS",
+        "precio": "$29.738.100"
+      },
+      {
+        "version": "2.2L Chasis L4 CD",
+        "precio": "$30.928.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "e-Partner",
+    "precio": "38425100",
+    "versiones": [
+      {
+        "version": "L1 EV",
+        "precio": "$38.425.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "Expert",
+    "precio": "28310100",
+    "versiones": [
+      {
+        "version": "Premium 2.0L HDi",
+        "precio": "$28.310.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "Landtrek",
+    "precio": "36640100",
+    "versiones": [
+      {
+        "version": "Action4 BlueHDi 180 4x4 Aut",
+        "precio": "$36.640.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "Partner",
+    "precio": "21051100",
+    "versiones": [
+      {
+        "version": "L1 BlueHDi 100",
+        "precio": "$21.051.100"
+      },
+      {
+        "version": "L2 BlueHDi 100",
+        "precio": "$22.003.100"
+      }
+    ]
+  },
+  {
+    "marca": "Peugeot",
+    "modelo": "Rifter",
+    "precio": "22790000",
+    "versiones": [
+      {
+        "version": "1.2L PureTech 130HP Aut",
+        "precio": "$22.790.000"
+      },
+      {
+        "version": "1.6L Allure BlueHDi 100HP",
+        "precio": "$23.290.000"
+      },
+      {
+        "version": "1.5L Allure BlueHDi 130HP Aut",
+        "precio": "$25.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Boxster",
+    "precio": "85900",
+    "versiones": [
+      {
+        "version": "2.0L",
+        "precio": "u$s85.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Boxster GTS",
+    "precio": "111900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s111.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Boxster S",
+    "precio": "93900",
+    "versiones": [
+      {
+        "version": "2.5L",
+        "precio": "u$s93.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Boxster T",
+    "precio": "88900",
+    "versiones": [
+      {
+        "version": "2.0L",
+        "precio": "u$s88.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Cayman",
+    "precio": "81900",
+    "versiones": [
+      {
+        "version": "2.0L",
+        "precio": "u$s81.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Cayman GT4 RS",
+    "precio": "189900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s189.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "718 Cayman GTS",
+    "precio": "107900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s107.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Carrera 4 Cabriolet",
+    "precio": "162900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s162.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Carrera 4S",
+    "precio": "167900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s167.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Carrera 4S Cabriolet",
+    "precio": "184900",
+    "versiones": [
+      {
+        "version": "4S",
+        "precio": "u$s184.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Carrera S",
+    "precio": "159900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s159.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Carrera S Cabriolet",
+    "precio": "175900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s175.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Carrera T",
+    "precio": "151900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s151.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 GT3",
+    "precio": "223900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s223.900"
+      },
+      {
+        "version": "4.0L Touring",
+        "precio": "u$s224.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 GT3 RS",
+    "precio": "297900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s297.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 S/T",
+    "precio": "360900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s360.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Turbo",
+    "precio": "240900",
+    "versiones": [
+      {
+        "version": "3.8L",
+        "precio": "u$s240.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Turbo Cabriolet",
+    "precio": "257900",
+    "versiones": [
+      {
+        "version": "3.8L",
+        "precio": "u$s257.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Turbo S",
+    "precio": "278900",
+    "versiones": [
+      {
+        "version": "3.8L",
+        "precio": "u$s278.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "911 Turbo S Cabriolet",
+    "precio": "295900",
+    "versiones": [
+      {
+        "version": "3.8L",
+        "precio": "u$s295.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Cayenne",
+    "precio": "102900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s102.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Cayenne Coupé",
+    "precio": "112900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s112.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Cayenne S Coupé",
+    "precio": "147900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s147.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Cayenne S E-Hybrid",
+    "precio": "121900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s121.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Cayenne Turbo E-Hybrid",
+    "precio": "121900",
+    "versiones": [
+      {
+        "version": "4.0L",
+        "precio": "u$s121.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Macan",
+    "precio": "63900",
+    "versiones": [
+      {
+        "version": "2.0L",
+        "precio": "u$s63.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Macan GTS",
+    "precio": "101900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s101.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Macan S",
+    "precio": "86900",
+    "versiones": [
+      {
+        "version": "3.0L",
+        "precio": "u$s86.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Panamera",
+    "precio": "134900",
+    "versiones": [
+      {
+        "version": "Platinum Edition",
+        "precio": "u$s134.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Panamera 4 E-Hybrid",
+    "precio": "147900",
+    "versiones": [
+      {
+        "version": "462 Cv",
+        "precio": "u$s147.900"
+      },
+      {
+        "version": "462 Cv Platinum Edition",
+        "precio": "u$s160.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Taycan GTS",
+    "precio": "172900",
+    "versiones": [
+      {
+        "version": "598 Cv",
+        "precio": "u$s172.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Taycan Turbo",
+    "precio": "183900",
+    "versiones": [
+      {
+        "version": "Turbo",
+        "precio": "u$s183.900"
+      }
+    ]
+  },
+  {
+    "marca": "Porsche",
+    "modelo": "Taycan Turbo Cross Turismo",
+    "precio": "191900",
+    "versiones": [
+      {
+        "version": "680 Cv",
+        "precio": "u$s191.900"
+      }
+    ]
+  },
+  {
+    "marca": "RAM",
+    "modelo": "1000",
+    "precio": "28548100",
+    "versiones": [
+      {
+        "version": "Big Horn LX",
+        "precio": "$28.548.100"
+      },
+      {
+        "version": "Big Horn Night Edition",
+        "precio": "$29.738.100"
+      },
+      {
+        "version": "Rebel",
+        "precio": "$36.878.100"
+      }
+    ]
+  },
+  {
+    "marca": "RAM",
+    "modelo": "1500",
+    "precio": "54728100",
+    "versiones": [
+      {
+        "version": "Big Horn",
+        "precio": "$54.728.100"
+      },
+      {
+        "version": "Rebel",
+        "precio": "$65.438.100"
+      },
+      {
+        "version": "Limited",
+        "precio": "$67.818.100"
+      }
+    ]
+  },
+  {
+    "marca": "RAM",
+    "modelo": "2500",
+    "precio": "71388100",
+    "versiones": [
+      {
+        "version": "Big Horn",
+        "precio": "$71.388.100"
+      },
+      {
+        "version": "Laramie",
+        "precio": "$83.288.100"
+      }
+    ]
+  },
+  {
+    "marca": "RAM",
+    "modelo": "700",
+    "precio": "19623100",
+    "versiones": [
+      {
+        "version": "1.3L Laramie",
+        "precio": "$19.623.100"
+      },
+      {
+        "version": "1.4L BigHorn CVT",
+        "precio": "$19.623.100"
+      },
+      {
+        "version": "1.3L Longhorn CVT",
+        "precio": "$21.408.100"
+      }
+    ]
+  },
+  {
+    "marca": "RAM",
+    "modelo": "V700 City",
+    "precio": "15458100",
+    "versiones": [
+      {
+        "version": "1.4L",
+        "precio": "$15.458.100"
+      },
+      {
+        "version": "1.2L Diesel",
+        "precio": "$17.243.100"
+      }
+    ]
+  },
+  {
+    "marca": "RAM",
+    "modelo": "V700 Rapid",
+    "precio": "15458100",
+    "versiones": [
+      {
+        "version": "1.4L ST",
+        "precio": "$15.458.100"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Arkana",
+    "precio": "30090000",
+    "versiones": [
+      {
+        "version": "Intens Tech",
+        "precio": "$30.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Clio",
+    "precio": "17990000",
+    "versiones": [
+      {
+        "version": "1.0L Zen",
+        "precio": "$17.990.000"
+      },
+      {
+        "version": "1.0L Intens",
+        "precio": "$19.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Duster",
+    "precio": "17290000",
+    "versiones": [
+      {
+        "version": "1.6L Zen",
+        "precio": "$17.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Kangoo Z.E",
+    "precio": "39258100",
+    "versiones": [
+      {
+        "version": "L2",
+        "precio": "$39.258.100"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Koleos",
+    "precio": "27590000",
+    "versiones": [
+      {
+        "version": "2.5L Zen",
+        "precio": "$27.590.000"
+      },
+      {
+        "version": "2.5L Intens",
+        "precio": "$29.890.000"
+      },
+      {
+        "version": "2.5L Zen Plus 4x4",
+        "precio": "$31.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Kwid",
+    "precio": "11390000",
+    "versiones": [
+      {
+        "version": "Zen",
+        "precio": "$11.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Renault",
+    "modelo": "Oroch",
+    "precio": "17957100",
+    "versiones": [
+      {
+        "version": "1.6L Zen",
+        "precio": "$17.957.100"
+      },
+      {
+        "version": "1.3L Intens Aut",
+        "precio": "$21.765.100"
+      },
+      {
+        "version": "1.3L Intens Aut Outsider",
+        "precio": "$22.717.100"
+      },
+      {
+        "version": "1.3L Intens 4x4",
+        "precio": "$22.955.100"
+      },
+      {
+        "version": "1.3L Intens Outsider 4x4",
+        "precio": "$23.907.100"
+      }
+    ]
+  },
+  {
+    "marca": "SEAT",
+    "modelo": "Arona",
+    "precio": "19990000",
+    "versiones": [
+      {
+        "version": "1.0L TSi Style Aut",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "1.6L TSi FR Aut",
+        "precio": "$20.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "SEAT",
+    "modelo": "Ateca",
+    "precio": "24290000",
+    "versiones": [
+      {
+        "version": "1.4L Style Aut",
+        "precio": "$24.290.000"
+      },
+      {
+        "version": "1.4L Xperience",
+        "precio": "$26.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "SEAT",
+    "modelo": "Ibiza",
+    "precio": "14990000",
+    "versiones": [
+      {
+        "version": "1.6L Reference",
+        "precio": "$14.990.000"
+      },
+      {
+        "version": "1.6L Style",
+        "precio": "$15.790.000"
+      },
+      {
+        "version": "1.6L Style Aut",
+        "precio": "$16.990.000"
+      },
+      {
+        "version": "1.0L Style",
+        "precio": "$17.090.000"
+      },
+      {
+        "version": "1.0L Style Aut",
+        "precio": "$18.290.000"
+      },
+      {
+        "version": "1.6L FR Aut",
+        "precio": "$18.990.000"
+      },
+      {
+        "version": "1.0L FR Aut",
+        "precio": "$20.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "SEAT",
+    "modelo": "Tarraco",
+    "precio": "32890000",
+    "versiones": [
+      {
+        "version": "1.4L Xperience Cuero",
+        "precio": "$32.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Shineray",
+    "modelo": "G03F",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "1.5L Comfort",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Shineray",
+    "modelo": "G05",
+    "precio": "14990000",
+    "versiones": [
+      {
+        "version": "Pro 2.0 Elite",
+        "precio": "$14.990.000"
+      },
+      {
+        "version": "Pro 1.5T Luxury",
+        "precio": "$15.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Shineray",
+    "modelo": "T30",
+    "precio": "8318100",
+    "versiones": [
+      {
+        "version": "1.5L ELT",
+        "precio": "$8.318.100"
+      },
+      {
+        "version": "1.6L ELT",
+        "precio": "$9.270.100"
+      }
+    ]
+  },
+  {
+    "marca": "Shineray",
+    "modelo": "T32",
+    "precio": "10103100",
+    "versiones": [
+      {
+        "version": "1.6L ELT",
+        "precio": "$10.103.100"
+      }
+    ]
+  },
+  {
+    "marca": "Shineray",
+    "modelo": "T50",
+    "precio": "1046100",
+    "versiones": [
+      {
+        "version": "1.5L STD",
+        "precio": "$1.046.100"
+      },
+      {
+        "version": "1.6L STD",
+        "precio": "$11.174.100"
+      }
+    ]
+  },
+  {
+    "marca": "Shineray",
+    "modelo": "T52",
+    "precio": "11055100",
+    "versiones": [
+      {
+        "version": "1.5L STD",
+        "precio": "$11.055.100"
+      },
+      {
+        "version": "1.6L STD",
+        "precio": "$11.769.100"
+      }
+    ]
+  },
+  {
+    "marca": "Skoda",
+    "modelo": "Kamiq",
+    "precio": "20390000",
+    "versiones": [
+      {
+        "version": "1.0L Ambition TSi Aut",
+        "precio": "$20.390.000"
+      },
+      {
+        "version": "1.5L Style TSi Aut",
+        "precio": "$22.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Skoda",
+    "modelo": "Karoq",
+    "precio": "26490000",
+    "versiones": [
+      {
+        "version": "1.4L Ambition Aut",
+        "precio": "$26.490.000"
+      },
+      {
+        "version": "1.4L Style Aut",
+        "precio": "$29.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Skoda",
+    "modelo": "Octavia",
+    "precio": "22490000",
+    "versiones": [
+      {
+        "version": "1.4L TSi Ambition",
+        "precio": "$22.490.000"
+      },
+      {
+        "version": "1.4L TSi Style Aut",
+        "precio": "$23.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Skoda",
+    "modelo": "Scala",
+    "precio": "20190000",
+    "versiones": [
+      {
+        "version": "1.0L Ambition TSi Aut",
+        "precio": "$20.190.000"
+      },
+      {
+        "version": "1.5L TSi Montecarlo Aut",
+        "precio": "$29.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "SsangYong",
+    "modelo": "Korando",
+    "precio": "26490000",
+    "versiones": [
+      {
+        "version": "1.6TD GLX",
+        "precio": "$26.490.000"
+      },
+      {
+        "version": "1.6TD GLX Aut",
+        "precio": "$27.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "SsangYong",
+    "modelo": "Musso",
+    "precio": "33308100",
+    "versiones": [
+      {
+        "version": "2.2TD Limited Aut 4x4",
+        "precio": "$33.308.100"
+      },
+      {
+        "version": "2.2TD Limited Plus 4x4 Aut",
+        "precio": "$36.878.100"
+      }
+    ]
+  },
+  {
+    "marca": "SsangYong",
+    "modelo": "Musso Grand",
+    "precio": "24978100",
+    "versiones": [
+      {
+        "version": "2.2TD LX",
+        "precio": "$24.978.100"
+      },
+      {
+        "version": "2.2TD GLX",
+        "precio": "$26.763.100"
+      },
+      {
+        "version": "2.2TD GLX 4x4",
+        "precio": "$28.548.100"
+      },
+      {
+        "version": "2.2TD GLX Aut",
+        "precio": "$28.548.100"
+      }
+    ]
+  },
+  {
+    "marca": "SsangYong",
+    "modelo": "Rexton",
+    "precio": "24990000",
+    "versiones": [
+      {
+        "version": "2.0T LX",
+        "precio": "$24.990.000"
+      },
+      {
+        "version": "2.0T LX Aut",
+        "precio": "$26.990.000"
+      },
+      {
+        "version": "2.0T LX Aut 4x4",
+        "precio": "$28.490.000"
+      },
+      {
+        "version": "2.2TD LX Aut",
+        "precio": "$29.990.000"
+      },
+      {
+        "version": "2.2TD GLX Aut",
+        "precio": "$34.490.000"
+      },
+      {
+        "version": "2.2TD GLX Aut 4x4",
+        "precio": "$36.490.000"
+      },
+      {
+        "version": "2.2TD Limited Aut 4x4",
+        "precio": "$38.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "SsangYong",
+    "modelo": "Tivoli",
+    "precio": "18490000",
+    "versiones": [
+      {
+        "version": "1.6 GLX",
+        "precio": "$18.490.000"
+      },
+      {
+        "version": "1.6 Limited Aut",
+        "precio": "$21.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "SsangYong",
+    "modelo": "Torres",
+    "precio": "36490000",
+    "versiones": [
+      {
+        "version": "1.5L Limited Plus Bitono Aut 4x4",
+        "precio": "$36.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "Crosstrek",
+    "precio": "28990000",
+    "versiones": [
+      {
+        "version": "2.0i 4x4 CVT Dynamic ES",
+        "precio": "$28.990.000"
+      },
+      {
+        "version": "2.0i 4x4 CVT Touring ES",
+        "precio": "$30.990.000"
+      },
+      {
+        "version": "2.0i 4x4 CVT Touring ES HK",
+        "precio": "$31.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "Forester",
+    "precio": "27190000",
+    "versiones": [
+      {
+        "version": "2.0i AWD CVT X",
+        "precio": "$27.190.000"
+      },
+      {
+        "version": "2.0i AWD CVT XS",
+        "precio": "$28.990.000"
+      },
+      {
+        "version": "2.0i AWD CVT Dynamic EyeSight",
+        "precio": "$31.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "Forester Híbrido",
+    "precio": "33590000",
+    "versiones": [
+      {
+        "version": "2.0i AWD CVT Dynamic EyeSight",
+        "precio": "$33.590.000"
+      },
+      {
+        "version": "2.0i AWD CVT Limited EyeSight",
+        "precio": "$36.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "Impreza",
+    "precio": "24790000",
+    "versiones": [
+      {
+        "version": "2.0i XS AWD Aut",
+        "precio": "$24.790.000"
+      },
+      {
+        "version": "2.0i Limited EyeSight AWD Aut",
+        "precio": "$29.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "Outback",
+    "precio": "31990000",
+    "versiones": [
+      {
+        "version": "2.5i AWD CVT XS",
+        "precio": "$31.990.000"
+      },
+      {
+        "version": "2.5i AWD CVT Dynamic",
+        "precio": "$35.490.000"
+      },
+      {
+        "version": "2.5i AWD CVT Field Edition",
+        "precio": "$37.490.000"
+      },
+      {
+        "version": "2.5i AWD CVT Touring GardX",
+        "precio": "$39.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "WRX",
+    "precio": "35990000",
+    "versiones": [
+      {
+        "version": "2.4T AWD",
+        "precio": "$35.990.000"
+      },
+      {
+        "version": "2.4T AWD CVT Touring ES",
+        "precio": "$42.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "WRX Sportwagon",
+    "precio": "42990000",
+    "versiones": [
+      {
+        "version": "2.4T AWD CVT Touring ES",
+        "precio": "$42.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Subaru",
+    "modelo": "XV Híbrido",
+    "precio": "34590000",
+    "versiones": [
+      {
+        "version": "2.0i AWD Limited EyeSight Aut",
+        "precio": "$34.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Baleno",
+    "precio": "13190000",
+    "versiones": [
+      {
+        "version": "1.5L GLS",
+        "precio": "$13.190.000"
+      },
+      {
+        "version": "1.5L GLS Aut",
+        "precio": "$14.790.000"
+      },
+      {
+        "version": "1.5L GLX",
+        "precio": "$14.890.000"
+      },
+      {
+        "version": "1.5L GLX Aut",
+        "precio": "$16.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Carry",
+    "precio": "12840100",
+    "versiones": [
+      {
+        "version": "1.5L Pick Up",
+        "precio": "$12.840.100"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Dzire",
+    "precio": "11790000",
+    "versiones": [
+      {
+        "version": "1.2L GL",
+        "precio": "$11.790.000"
+      },
+      {
+        "version": "1.2L GL Sport",
+        "precio": "$12.090.000"
+      },
+      {
+        "version": "1.2L GLX",
+        "precio": "$12.790.000"
+      },
+      {
+        "version": "1.2L GL Sport Aut",
+        "precio": "$13.790.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Ertiga",
+    "precio": "16390000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$16.390.000"
+      },
+      {
+        "version": "1.5L GLX",
+        "precio": "$17.290.000"
+      },
+      {
+        "version": "1.5L GLX Aut",
+        "precio": "$17.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Fronx",
+    "precio": "16590000",
+    "versiones": [
+      {
+        "version": "GL",
+        "precio": "$16.590.000"
+      },
+      {
+        "version": "GLX",
+        "precio": "$18.090.000"
+      },
+      {
+        "version": "GL Aut",
+        "precio": "$18.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Grand Vitara",
+    "precio": "20790000",
+    "versiones": [
+      {
+        "version": "GLX",
+        "precio": "$20.790.000"
+      },
+      {
+        "version": "GL Aut",
+        "precio": "$21.090.000"
+      },
+      {
+        "version": "GLX Aut",
+        "precio": "$22.590.000"
+      },
+      {
+        "version": "Limited Aut 4x4",
+        "precio": "$24.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Jimny",
+    "precio": "17990000",
+    "versiones": [
+      {
+        "version": "1.5L GL",
+        "precio": "$17.990.000"
+      },
+      {
+        "version": "1.5L GL Winche",
+        "precio": "$19.385.100"
+      },
+      {
+        "version": "1.5L GL Aut",
+        "precio": "$19.590.000"
+      },
+      {
+        "version": "1.5L GLX Aut",
+        "precio": "$20.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "S-Cross",
+    "precio": "20490000",
+    "versiones": [
+      {
+        "version": "1.4T Boosterjet GL",
+        "precio": "$20.490.000"
+      },
+      {
+        "version": "1.4T Boosterjet GLX",
+        "precio": "$23.290.000"
+      },
+      {
+        "version": "1.4T Boosterjet GLX Aut",
+        "precio": "$23.790.000"
+      },
+      {
+        "version": "1.4T Boosterjet 4WD Aut Limited",
+        "precio": "$25.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "S-Presso",
+    "precio": "9090000",
+    "versiones": [
+      {
+        "version": "GLX",
+        "precio": "$9.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Swift",
+    "precio": "12390000",
+    "versiones": [
+      {
+        "version": "1.2L GL Sport",
+        "precio": "$12.390.000"
+      },
+      {
+        "version": "1.2L GL Sport Aut",
+        "precio": "$13.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Suzuki",
+    "modelo": "Swift Sport",
+    "precio": "18890000",
+    "versiones": [
+      {
+        "version": "1.4L Aut",
+        "precio": "$18.890.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "4Runner",
+    "precio": "36690000",
+    "versiones": [
+      {
+        "version": "4.0L 4x2 SR5",
+        "precio": "$36.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla Cross",
+    "precio": "23390000",
+    "versiones": [
+      {
+        "version": "2.0L SEG CVT",
+        "precio": "$23.390.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Corolla Cross GR-S",
+    "precio": "27490000",
+    "versiones": [
+      {
+        "version": "2.0L",
+        "precio": "$27.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Fortuner",
+    "precio": "35590000",
+    "versiones": [
+      {
+        "version": "2.7L SR5 4x2",
+        "precio": "$35.590.000"
+      },
+      {
+        "version": "2.7L SRX 4x2",
+        "precio": "$37.990.000"
+      },
+      {
+        "version": "2.8L SR5 TDi 4x4 Aut",
+        "precio": "$39.590.000"
+      },
+      {
+        "version": "2.8L SRX TDi 4x4 Aut",
+        "precio": "$40.990.000"
+      },
+      {
+        "version": "2.8L SR5 TDi 4x4",
+        "precio": "$45.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Fortuner GR-S",
+    "precio": "47590000",
+    "versiones": [
+      {
+        "version": "4x4 2.8L Aut",
+        "precio": "$47.590.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Hiace Furgón",
+    "precio": "32490000",
+    "versiones": [
+      {
+        "version": "2.8L L1H1",
+        "precio": "$32.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Hiace Pasajeros",
+    "precio": "36490000",
+    "versiones": [
+      {
+        "version": "2.8L L2H2 9Pas",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.8L L1H1 11Pas",
+        "precio": "$36.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Hilux",
+    "precio": "28690000",
+    "versiones": [
+      {
+        "version": "2.7L SR Gasolina CD 4x2",
+        "precio": "$28.690.000"
+      },
+      {
+        "version": "2.4L DX CD 4x2",
+        "precio": "$29.990.000"
+      },
+      {
+        "version": "2.4L SR CD 4x2",
+        "precio": "$31.690.000"
+      },
+      {
+        "version": "2.4L DX CS 4x4",
+        "precio": "$32.690.000"
+      },
+      {
+        "version": "2.4L DX CD 4x4",
+        "precio": "$34.690.000"
+      },
+      {
+        "version": "2.4L SR CD 4x4",
+        "precio": "$37.690.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Hilux GR-S",
+    "precio": "49190000",
+    "versiones": [
+      {
+        "version": "4x4 2.8L Aut",
+        "precio": "$49.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Raize",
+    "precio": "12990000",
+    "versiones": [
+      {
+        "version": "1.2L G Aut",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "1.2L I",
+        "precio": "$12.990.000"
+      },
+      {
+        "version": "1.2L E",
+        "precio": "$14.990.000"
+      },
+      {
+        "version": "1.2L E Aut",
+        "precio": "$15.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Rav4",
+    "precio": "23790000",
+    "versiones": [
+      {
+        "version": "2.0L LE",
+        "precio": "$23.790.000"
+      },
+      {
+        "version": "2.0L LE Aut",
+        "precio": "$24.790.000"
+      },
+      {
+        "version": "2.0L LE 4x4",
+        "precio": "$24.990.000"
+      },
+      {
+        "version": "2.0L XLE Aut",
+        "precio": "$27.890.000"
+      },
+      {
+        "version": "2.5L Adventure 4x4 Aut",
+        "precio": "$37.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "RAV4  Híbrido",
+    "precio": "33490000",
+    "versiones": [
+      {
+        "version": "2.5L XSE CVT",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "2.5L XLE CVT",
+        "precio": "$33.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Rush",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "1.5L XLI",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "1.5L XLI Aut",
+        "precio": "Versión sin precio"
+      },
+      {
+        "version": "1.5L XEI",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Yaris",
+    "precio": "13990000",
+    "versiones": [
+      {
+        "version": "1.5L i",
+        "precio": "$13.990.000"
+      },
+      {
+        "version": "1.5L e",
+        "precio": "$15.490.000"
+      },
+      {
+        "version": "1.5L e CVT",
+        "precio": "$16.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Toyota",
+    "modelo": "Yaris Hatchback",
+    "precio": "14390000",
+    "versiones": [
+      {
+        "version": "E",
+        "precio": "$14.390.000"
+      },
+      {
+        "version": "Sport",
+        "precio": "$15.690.000"
+      },
+      {
+        "version": "E Aut",
+        "precio": "$15.690.000"
+      },
+      {
+        "version": "Sport Aut",
+        "precio": "$16.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "UAZ",
+    "modelo": "Farmer",
+    "precio": "14490000",
+    "versiones": [
+      {
+        "version": "2.7L",
+        "precio": "$14.490.000"
+      },
+      {
+        "version": "2.7L Cabina doble",
+        "precio": "$15.490.000"
+      },
+      {
+        "version": "2.7L Chiloé",
+        "precio": "$19.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "UAZ",
+    "modelo": "Hunter",
+    "precio": "16990000",
+    "versiones": [
+      {
+        "version": "2.7L Sport",
+        "precio": "$16.990.000"
+      },
+      {
+        "version": "2.7L Sport Ac",
+        "precio": "$18.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "UAZ",
+    "modelo": "Kazak",
+    "precio": "18490000",
+    "versiones": [
+      {
+        "version": "Comfort",
+        "precio": "$18.490.000"
+      },
+      {
+        "version": "Luxury",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "Comfort Aut",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "Luxury Aut",
+        "precio": "$21.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "UAZ",
+    "modelo": "Profi",
+    "precio": "15440000",
+    "versiones": [
+      {
+        "version": "GLP Cabina simple 4x4",
+        "precio": "$15.440.000"
+      },
+      {
+        "version": "GLP Cabina simple",
+        "precio": "$16.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Amarok",
+    "precio": "38187100",
+    "versiones": [
+      {
+        "version": "2.0L Comfortline 4x4",
+        "precio": "$38.187.100"
+      },
+      {
+        "version": "2.0L Comfortline 4x4 Aut",
+        "precio": "$40.329.100"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Atlas",
+    "precio": "44490000",
+    "versiones": [
+      {
+        "version": "3.6L Comfortline 4Motion Aut",
+        "precio": "$44.490.000"
+      },
+      {
+        "version": "3.6L Limited 4Motion Aut",
+        "precio": "$49.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Jetta",
+    "precio": "19990000",
+    "versiones": [
+      {
+        "version": "1.4L TSi Comfortline",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "1.4L TSi Comfortline Aut",
+        "precio": "$21.490.000"
+      },
+      {
+        "version": "1.4L TSi Comfortline Aut Sky",
+        "precio": "$22.490.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Jetta GLI",
+    "precio": "27990000",
+    "versiones": [
+      {
+        "version": "2.0L TSi",
+        "precio": "$27.990.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Nivus",
+    "precio": "18490000",
+    "versiones": [
+      {
+        "version": "1.0L Comfortline",
+        "precio": "$18.490.000"
+      },
+      {
+        "version": "1.0L Comfortline Aut",
+        "precio": "$20.390.000"
+      },
+      {
+        "version": "1.0L Highline Aut",
+        "precio": "$23.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Polo",
+    "precio": "15290000",
+    "versiones": [
+      {
+        "version": "1.6L MSi Trendline",
+        "precio": "$15.290.000"
+      },
+      {
+        "version": "1.6L MSi Comfortline",
+        "precio": "$16.290.000"
+      },
+      {
+        "version": "1.6L MSi Comfortline Aut",
+        "precio": "$17.690.000"
+      },
+      {
+        "version": "1.6L MSi Highline",
+        "precio": "$18.290.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Saveiro",
+    "precio": "14744100",
+    "versiones": [
+      {
+        "version": "1.6L Cabina Simple",
+        "precio": "$14.744.100"
+      },
+      {
+        "version": "1.6L Doble Cabina Comfortline",
+        "precio": "$15.815.100"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "T-Cross",
+    "precio": "16690000",
+    "versiones": [
+      {
+        "version": "1.0L Trendline Lite TSi",
+        "precio": "$16.690.000"
+      },
+      {
+        "version": "1.0L Trendline TSi",
+        "precio": "$16.690.000"
+      },
+      {
+        "version": "1.0L Comfortline TSi Aut",
+        "precio": "$19.990.000"
+      },
+      {
+        "version": "1.0L Highline Hero",
+        "precio": "$22.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Taos",
+    "precio": "Precio de lista no encontrado",
+    "versiones": [
+      {
+        "version": "1.4L Comfortline  Aut",
+        "precio": "Versión sin precio"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Tiguan",
+    "precio": "30690000",
+    "versiones": [
+      {
+        "version": "1.4L TSi Comfortline Aut",
+        "precio": "$30.690.000"
+      },
+      {
+        "version": "1.4L TSi Highline Aut",
+        "precio": "$35.090.000"
+      },
+      {
+        "version": "2.0L TSi R-Line 4Motion Aut",
+        "precio": "$41.490.000"
+      },
+      {
+        "version": "2.0L TSi R-Line 4Motion Aut Black Edition",
+        "precio": "$42.190.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volkswagen",
+    "modelo": "Virtus",
+    "precio": "15590000",
+    "versiones": [
+      {
+        "version": "1.6L Trendline",
+        "precio": "$15.590.000"
+      },
+      {
+        "version": "1.6L Comfortline Aut",
+        "precio": "$17.990.000"
+      },
+      {
+        "version": "1.6L Highline Aut",
+        "precio": "$20.090.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelo": "C40 Recharge",
+    "precio": "77900000",
+    "versiones": [
+      {
+        "version": "P8 Electric",
+        "precio": "$77.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelo": "S60 Recharge",
+    "precio": "58000000",
+    "versiones": [
+      {
+        "version": "T8 AWD Ultimate",
+        "precio": "$58.000.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelo": "XC40",
+    "precio": "39900000",
+    "versiones": [
+      {
+        "version": "B4 Plus",
+        "precio": "$39.900.000"
+      },
+      {
+        "version": "B5 AWD Ultimate",
+        "precio": "$48.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelo": "XC40 Recharge",
+    "precio": "51900000",
+    "versiones": [
+      {
+        "version": "T5 Ultimate",
+        "precio": "$51.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelo": "XC60 Recharge",
+    "precio": "64900000",
+    "versiones": [
+      {
+        "version": "T8 AWD",
+        "precio": "$64.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "Volvo",
+    "modelo": "XC90 Recharge",
+    "precio": "83900000",
+    "versiones": [
+      {
+        "version": "T8 AWD Ultimate",
+        "precio": "$83.900.000"
+      }
+    ]
+  },
+  {
+    "marca": "ZX",
+    "modelo": "Terralord",
+    "precio": "20218100",
+    "versiones": [
+      {
+        "version": "2.8L 4x2",
+        "precio": "$20.218.100"
+      },
+      {
+        "version": "2.8L 4x4",
+        "precio": "$21.765.100"
+      },
+      {
+        "version": "2.5L DLX 4x2",
+        "precio": "$22.003.100"
+      }
+    ]
+  }
+]
