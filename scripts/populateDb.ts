@@ -45,7 +45,7 @@ app.post('/consulta', async (req, res) => {
   try {
     const { consulta, similarityMetrics } = req.body;
 
-    const collection = await astraDb.collection(`chat_${similarityMetric}`);
+    const collection = await astraDb.collection(`chat_${similarityMetrics}`);
 
     const result = await collection.find({ $text: { $search: consulta } });
 
