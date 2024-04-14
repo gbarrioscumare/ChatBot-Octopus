@@ -49,10 +49,12 @@ const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') 
   }
 };
 const processConsulta = async (consulta: string) => {
-  const collection = await astraDb.collection(`chat_cosine`);
-  const result = await collection.find({ $text: { $search: consulta } }); 
+  const collection = await astraDb.collection(`chat_${similarity_metric}`);
+  const cursor = collection.find({ $text: { $search: consulta } });
+  const count = await cursor.count();
 
-  if (result.length > 0) {
+  if (count > 0) {
+    const result = await cursor.toArray();
     const formattedResponse = result.map(item => `${item.marca} ${item.modelo} - ${item.versiones.map(v => `${v.version}: ${v.precio}`).join(', ')}`).join('\n');
     return formattedResponse;
   } else {
