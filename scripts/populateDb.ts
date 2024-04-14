@@ -1,10 +1,15 @@
 import { AstraDB } from "@datastax/astra-db-ts";
+import express from 'express';
+import bodyParser from 'body-parser';
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import 'dotenv/config'
 import sampleData from './sample_data.json';
 import autoData from './marcas_modelos_precios.json';
 import OpenAI from 'openai';
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
+
+const app = express();
+const port = 3000;
 
 type Car = {
   marca: string;
@@ -20,6 +25,7 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
+app.use(bodyParser.json());
 const {ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE } = process.env;
 
 const astraDb = new AstraDB(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
@@ -34,6 +40,21 @@ const similarityMetrics: SimilarityMetric[] = [
   'euclidean',
   'dot_product',
 ]
+
+app.post('/consulta', async (req, res) => {
+  try {
+    const { consulta, similarityMetrics } = req.body;
+
+    const collection = await astraDb.collection(`chat_${similarityMetric}`);
+
+    const result = await collection.find({ $text: { $search: consulta } });
+
+    res.json({ data: result });
+  } catch (error) {
+    console.error('Error al procesar la consulta:', error);
+    res.status(500).json({ error: 'Error interno del servidor' });
+  }
+});
 
 const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') => {
   try {
@@ -86,4 +107,8 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
 
 similarityMetrics.forEach(metric => {
   createCollection(metric).then(() => loadSampleData(metric));
+});
+
+app.listen(port, () => {
+  console.log(`Servidor backend en ejecución en el puerto ${port}`);
 });
