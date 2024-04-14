@@ -48,20 +48,8 @@ const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') 
     console.log(`chat_${similarity_metric} already exists`);
   }
 };
-const processConsulta = async (consulta: string) => {
-  const collection = await astraDb.collection(`chat_cosine`);
-  const cursor = collection.find({ $text: { $search: consulta } });
-  const count = await cursor.count();
 
-  if (count > 0) {
-    const result = await cursor.toArray();
-    const formattedResponse = result.map(item => `${item.marca} ${item.modelo} - ${item.versiones.map(v => `${v.version}: ${v.precio}`).join(', ')}`).join('\n');
-    return formattedResponse;
-  } else {
-    // Si no se encuentra información, se responde con un mensaje predeterminado
-    return "Lo siento, no encontré información relevante para tu consulta. ¿Hay algo más en lo que pueda ayudarte?";
-  }
-};
+
 
 const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') => {
   const collection = await astraDb.collection(`chat_${similarity_metric}`);
