@@ -1,4 +1,4 @@
-import OpenAI, { OpenAIStream } from 'openai';
+import OpenAI, OpenAIStream from 'openai';
 import { DataAPIClient, Db } from "@datastax/astra-db-ts";
 import { Request, Response } from 'express'; // Asegúrate de tener instalado el paquete 'express'
 
