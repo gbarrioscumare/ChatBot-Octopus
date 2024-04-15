@@ -81,37 +81,6 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   console.log('data loaded');
 };
 
-// const consultarInformacion = async (consulta: string, similarityMetric: string) => {
-//   try {
-//     const collection = await db.collection('marca_modelos_precios', {
-//       vector: {
-//         dimension: 1536,
-//         metric: similarityMetric,
-//       }
-//     });
-
-//     const { data } = await openai.embeddings.create({
-//       input: consulta,
-//       model: 'text-embedding-ada-002',
-//     });
-
-//     const result = await collection.find({
-//       $vector: data[0]?.embedding,
-//     });
-
-//     return result;
-//   } catch (error) {
-//     console.error('Error al consultar la información:', error);
-//     return null;
-//   }
-// };
-
-
-
-// // consultarInformacion(consulta, similarityMetric).then((result) => {
-// //   console.log(result); // Imprime los resultados obtenidos
-// // });
-
 similarityMetrics.forEach(metric => {
   createCollection(metric).then(() => loadSampleData(metric));
 });
