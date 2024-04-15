@@ -1,8 +1,11 @@
+import { AstraDB } from "@datastax/astra-db-ts";
+import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
+// import { DataAPIClient } from "@datastax/astra-db-ts";
 import OpenAI from 'openai';
 import 'dotenv/config';
+import sampleData from './sample_data.json';
 import autoData from './marcas_modelos_precios.json';
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
-import { DataAPIClient, Db } from "@datastax/astra-db-ts";
 
 type Car = {
   marca: string;
@@ -19,12 +22,13 @@ const {
   ASTRA_DB_APPLICATION_TOKEN,
   ASTRA_DB_API_ENDPOINT,
   ASTRA_DB_NAMESPACE,
+  OPENAI_API_KEY,
 } = process.env;
 
-const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
-const db: Db = client.db(ASTRA_DB_API_ENDPOINT);
+// const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
+// const db = client.db(ASTRA_DB_API_ENDPOINT);
 
-const astraDb = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
+const astraDb = new AstraDB(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
 
 const similarityMetrics: SimilarityMetric[] = [
   'cosine',
@@ -77,30 +81,36 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   console.log('data loaded');
 };
 
-const consultarInformacion = async (consulta: string, similarity_metric: SimilarityMetric = 'cosine') => {
-  try {
-    const collection = await db.collection(`chat_${similarity_metric}`);
+// const consultarInformacion = async (consulta: string, similarityMetric: string) => {
+//   try {
+//     const collection = await db.collection('marca_modelos_precios', {
+//       vector: {
+//         dimension: 1536,
+//         metric: similarityMetric,
+//       }
+//     });
 
-    const { data } = await openai.embeddings.create({
-      input: consulta,
-      model: 'text-embedding-ada-002',
-    });
+//     const { data } = await openai.embeddings.create({
+//       input: consulta,
+//       model: 'text-embedding-ada-002',
+//     });
 
-    const result = await collection.find({
-      $vector: data[0]?.embedding,
-    });
+//     const result = await collection.find({
+//       $vector: data[0]?.embedding,
+//     });
 
-    return result;
-  } catch (error) {
-    console.error('Error al consultar la información:', error);
-    return null;
-  }
-};
+//     return result;
+//   } catch (error) {
+//     console.error('Error al consultar la información:', error);
+//     return null;
+//   }
+// };
 
 
-consultarInformacion(consulta, similarityMetric).then((result) => {
-  console.log(result); // Imprime los resultados obtenidos
-});
+
+// // consultarInformacion(consulta, similarityMetric).then((result) => {
+// //   console.log(result); // Imprime los resultados obtenidos
+// // });
 
 similarityMetrics.forEach(metric => {
   createCollection(metric).then(() => loadSampleData(metric));
