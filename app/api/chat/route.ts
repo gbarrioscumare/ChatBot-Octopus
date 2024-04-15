@@ -1,7 +1,7 @@
 import OpenAI from 'openai';
 import {OpenAIStream, StreamingTextResponse} from 'ai';
 import {AstraDB} from "@datastax/astra-db-ts";
-import {DataAPIClient} from "@datastax/astra-db-ts";
+// import {DataAPIClient} from "@datastax/astra-db-ts";
 //import { Request } from 'express';
 
 const openai = new OpenAI({
