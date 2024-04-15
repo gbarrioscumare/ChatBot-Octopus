@@ -58,7 +58,7 @@ export async function POST(req: Request, res: Response) {
       messages: [...ragPrompt, ...messages],
     });
 
-    const stream = OpenAIStream(response);  // Aquí se utiliza OpenAIStream
+    const stream = OpenAIStream.create(response);
     return new StreamingTextResponse(stream);
   } catch (e) {
     throw e;
