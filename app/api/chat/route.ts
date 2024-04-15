@@ -1,16 +1,18 @@
 import OpenAI from 'openai';
-import {OpenAIStream, StreamingTextResponse} from 'ai';
-import { DataAPIClient } from "@datastax/astra-db-ts";
-import { Request } from 'express';
+import { DataAPIClient, Db } from "@datastax/astra-db-ts";
+import { Request, Response } from 'express'; // Asegúrate de tener instalado el paquete 'express'
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
 // Inicializa el cliente de Astra DB con el token de la aplicación
-const astraDb = new DataAPIClient(process.env.ASTRA_DB_APPLICATION_TOKEN);
+const astraDbClient = new DataAPIClient(process.env.ASTRA_DB_APPLICATION_TOKEN);
 
-export async function POST(req: Request) {
+// Conecta a la base de datos específica
+const db: Db = astraDbClient.db(process.env.ASTRA_DB_API_ENDPOINT);
+
+export async function POST(req: Request, res: Response) {
   try {
     const { messages, useRag, llm, similarityMetric } = await req.json();
 
@@ -20,7 +22,8 @@ export async function POST(req: Request) {
     if (useRag) {
       const { data } = await openai.embeddings.create({ input: latestMessage, model: 'text-embedding-ada-002' });
 
-      const collection = await astraDb.collection(`chat_${similarityMetric}`);
+      // Accede a la colección específica en la base de datos
+      const collection = await db.collection(`chat_${similarityMetric}`);
 
       const cursor = collection.find(null, {
         sort: {

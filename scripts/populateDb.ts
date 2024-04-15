@@ -1,11 +1,8 @@
-import { DataAPIClient } from "@datastax/astra-db-ts";
-import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-// import { DataAPIClient } from "@datastax/astra-db-ts";
 import OpenAI from 'openai';
 import 'dotenv/config';
-import sampleData from './sample_data.json';
 import autoData from './marcas_modelos_precios.json';
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
+import { DataAPIClient, Db } from "@datastax/astra-db-ts";
 
 type Car = {
   marca: string;
@@ -22,11 +19,10 @@ const {
   ASTRA_DB_APPLICATION_TOKEN,
   ASTRA_DB_API_ENDPOINT,
   ASTRA_DB_NAMESPACE,
-  OPENAI_API_KEY,
 } = process.env;
 
 const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
-const db = client.db(ASTRA_DB_API_ENDPOINT);
+const db: Db = client.db(ASTRA_DB_API_ENDPOINT);
 
 const astraDb = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
 
