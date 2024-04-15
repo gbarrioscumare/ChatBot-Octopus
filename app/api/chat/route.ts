@@ -1,4 +1,4 @@
-import OpenAI from 'openai';
+import OpenAI, { OpenAIStream } from 'openai';
 import { DataAPIClient, Db } from "@datastax/astra-db-ts";
 import { Request, Response } from 'express'; // Asegúrate de tener instalado el paquete 'express'
 
@@ -57,7 +57,7 @@ export async function POST(req: Request, res: Response) {
       messages: [...ragPrompt, ...messages],
     });
 
-    const stream = OpenAIStream(response);
+    const stream = OpenAIStream(response);  // Aquí se utiliza OpenAIStream
     return new StreamingTextResponse(stream);
   } catch (e) {
     throw e;
