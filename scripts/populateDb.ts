@@ -1,4 +1,4 @@
-import { AstraDB, DataAPIClient } from '@datastax/astra-db-ts';
+import { AstraDB } from "@datastax/astra-db-ts";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import 'dotenv/config'
 import sampleData from './sample_data.json';
@@ -6,7 +6,8 @@ import autoData from './marcas_modelos_precios.json';
 import OpenAI from 'openai';
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
 
-
+const app = express();
+const port = 3000;
 
 type Car = {
   marca: string;
@@ -22,19 +23,9 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-
-const {
-  ASTRA_DB_APPLICATION_TOKEN,
-  ASTRA_DB_API_ENDPOINT,
-  ASTRA_DB_NAMESPACE,
-  OPENAI_API_KEY,
-} = process.env;
-
-const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
-const db = client.db(ASTRA_DB_API_ENDPOINT);
+const {ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE } = process.env;
 
 const astraDb = new AstraDB(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
-
 
 const splitter = new RecursiveCharacterTextSplitter({
   chunkSize: 1000,
@@ -46,6 +37,7 @@ const similarityMetrics: SimilarityMetric[] = [
   'euclidean',
   'dot_product',
 ]
+
 
 const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') => {
   try {
@@ -61,25 +53,7 @@ const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') 
   }
 };
 
-const consultarInformacion = async (consulta: string, similarity_metric: SimilarityMetric = 'cosine') => {
-  try {
-    const collection = await db.collection(`chat_${similarity_metric}`);
 
-    const { data } = await openai.embeddings.create({
-      input: consulta,
-      model: 'text-embedding-ada-002',
-    });
-
-    const result = await collection.find({
-      $vector: data[0]?.embedding,
-    });
-
-    return result;
-  } catch (error) {
-    console.error('Error al consultar la información:', error);
-    return null;
-  }
-};
 
 const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') => {
   const collection = await astraDb.collection(`chat_${similarity_metric}`);
@@ -112,10 +86,9 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   console.log('data loaded');
 };
 
+// console.log(carData[0].versiones);
+
 similarityMetrics.forEach(metric => {
   createCollection(metric).then(() => loadSampleData(metric));
 });
 
-consultarInformacion(consulta, similarity_metric).then((result) => {
-  console.log(result); // Imprime los resultados obtenidos
-});
