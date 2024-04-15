@@ -1,13 +1,11 @@
 import { AstraDB } from "@datastax/astra-db-ts";
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
-import 'dotenv/config'
+// import { DataAPIClient } from "@datastax/astra-db-ts";
+import OpenAI from 'openai';
+import 'dotenv/config';
 import sampleData from './sample_data.json';
 import autoData from './marcas_modelos_precios.json';
-import OpenAI from 'openai';
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
-
-const app = express();
-const port = 3000;
 
 type Car = {
   marca: string;
@@ -16,28 +14,27 @@ type Car = {
   versiones: { version: string; precio: string }[];
 };
 
-let carData: Car[] = autoData;
-
-
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-const {ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE } = process.env;
+const {
+  ASTRA_DB_APPLICATION_TOKEN,
+  ASTRA_DB_API_ENDPOINT,
+  ASTRA_DB_NAMESPACE,
+  OPENAI_API_KEY,
+} = process.env;
+
+// const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
+// const db = client.db(ASTRA_DB_API_ENDPOINT);
 
 const astraDb = new AstraDB(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
-
-const splitter = new RecursiveCharacterTextSplitter({
-  chunkSize: 1000,
-  chunkOverlap: 200,
-});
 
 const similarityMetrics: SimilarityMetric[] = [
   'cosine',
   'euclidean',
   'dot_product',
-]
-
+];
 
 const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') => {
   try {
@@ -53,11 +50,9 @@ const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') 
   }
 };
 
-
-
 const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') => {
   const collection = await astraDb.collection(`chat_${similarity_metric}`);
-  for await (const car of carData) {
+  for await (const car of autoData) {
     const { marca, modelo, precio, versiones } = car;
 
     const carData = {
@@ -86,9 +81,36 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   console.log('data loaded');
 };
 
-// console.log(carData[0].versiones);
+// const consultarInformacion = async (consulta: string, similarityMetric: string) => {
+//   try {
+//     const collection = await db.collection('marca_modelos_precios', {
+//       vector: {
+//         dimension: 1536,
+//         metric: similarityMetric,
+//       }
+//     });
+
+//     const { data } = await openai.embeddings.create({
+//       input: consulta,
+//       model: 'text-embedding-ada-002',
+//     });
+
+//     const result = await collection.find({
+//       $vector: data[0]?.embedding,
+//     });
+
+//     return result;
+//   } catch (error) {
+//     console.error('Error al consultar la información:', error);
+//     return null;
+//   }
+// };
+
+
+// consultarInformacion(consulta, similarityMetric).then((result) => {
+//   console.log(result); // Imprime los resultados obtenidos
+// });
 
 similarityMetrics.forEach(metric => {
   createCollection(metric).then(() => loadSampleData(metric));
 });
-
