@@ -1,6 +1,4 @@
 import { AstraDB } from "@datastax/astra-db-ts";
-// import express from 'express';
-// import bodyParser from 'body-parser';
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import 'dotenv/config'
 import sampleData from './sample_data.json';
@@ -8,8 +6,7 @@ import autoData from './marcas_modelos_precios.json';
 import OpenAI from 'openai';
 import { SimilarityMetric } from "../app/hooks/useConfiguration";
 
-// const app = express();
-// const port = 3000;
+
 
 type Car = {
   marca: string;
@@ -25,10 +22,19 @@ const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
 
-// app.use(bodyParser.json());
-const {ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE } = process.env;
+
+const {
+  ASTRA_DB_APPLICATION_TOKEN,
+  ASTRA_DB_API_ENDPOINT,
+  ASTRA_DB_NAMESPACE,
+  OPENAI_API_KEY,
+} = process.env;
+
+const client = new DataAPIClient(ASTRA_DB_APPLICATION_TOKEN);
+const db = client.db(ASTRA_DB_API_ENDPOINT);
 
 const astraDb = new AstraDB(ASTRA_DB_APPLICATION_TOKEN, ASTRA_DB_API_ENDPOINT, ASTRA_DB_NAMESPACE);
+
 
 const splitter = new RecursiveCharacterTextSplitter({
   chunkSize: 1000,
@@ -41,21 +47,6 @@ const similarityMetrics: SimilarityMetric[] = [
   'dot_product',
 ]
 
-// app.post('/consulta', async (req, res) => {
-//   try {
-//     const { consulta, similarityMetrics } = req.body;
-
-//     const collection = await astraDb.collection(`chat_${similarityMetrics}`);
-
-//     const result = await collection.find({ $text: { $search: consulta } });
-
-//     res.json({ data: result });
-//   } catch (error) {
-//     console.error('Error al procesar la consulta:', error);
-//     res.status(500).json({ error: 'Error interno del servidor' });
-//   }
-// });
-
 const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') => {
   try {
     const res = await astraDb.createCollection(`chat_${similarity_metric}`, {
@@ -67,6 +58,26 @@ const createCollection = async (similarity_metric: SimilarityMetric = 'cosine') 
     console.log(res);
   } catch (e) {
     console.log(`chat_${similarity_metric} already exists`);
+  }
+};
+
+const consultarInformacion = async (consulta: string, similarity_metric: SimilarityMetric = 'cosine') => {
+  try {
+    const collection = await db.collection(`chat_${similarity_metric}`);
+
+    const { data } = await openai.embeddings.create({
+      input: consulta,
+      model: 'text-embedding-ada-002',
+    });
+
+    const result = await collection.find({
+      $vector: data[0]?.embedding,
+    });
+
+    return result;
+  } catch (error) {
+    console.error('Error al consultar la información:', error);
+    return null;
   }
 };
 
@@ -101,12 +112,10 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   console.log('data loaded');
 };
 
-// console.log(carData[0].versiones);
-
 similarityMetrics.forEach(metric => {
   createCollection(metric).then(() => loadSampleData(metric));
 });
 
-// app.listen(port, () => {
-//   console.log(`Servidor backend en ejecución en el puerto ${port}`);
-// });
+consultarInformacion(consulta, similarity_metric).then((result) => {
+  console.log(result); // Imprime los resultados obtenidos
+});
