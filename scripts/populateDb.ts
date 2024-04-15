@@ -1,4 +1,4 @@
-import { AstraDB, DataAPIClient } from "@datastax/astra-db-ts";
+import { AstraDB, DataAPIClient } from '@datastax/astra-db-ts';
 import { RecursiveCharacterTextSplitter } from "langchain/text_splitter";
 import 'dotenv/config'
 import sampleData from './sample_data.json';
