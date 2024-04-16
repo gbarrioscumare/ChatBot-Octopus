@@ -72,7 +72,7 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
 
       const res = await collection.insertOne({
         document_id: `${marca}-${modelo}-${i}`,
-        $vector: data[0]?.embedding,
+        vectorData: data[0]?.embedding,
         carData,
       });
 
