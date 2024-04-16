@@ -55,12 +55,12 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   for await (const car of autoData) {
     const { marca, modelo, precio, versiones } = car;
 
-    const precioNumerico = parseFloat(precio.replace(/\D/g, ''));
+    // const precioNumerico = parseFloat(precio.replace(/\D/g, ''));
     const carData = {
       marca,
       modelo,
-      precio: precioNumerico,
-      versiones: versiones.map((v) => ({ version: v.version, precio: parseFloat(v.precio.replace(/\D/g, '')) })),
+      precio,
+      versiones: versiones.map((v) => ({ version: v.version, precio: v.precio })),
     };
 
     let i = 0;
@@ -72,7 +72,7 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
 
       const res = await collection.insertOne({
         document_id: `${marca}-${modelo}-${i}`,
-        vectorData: data[0]?.embedding,
+        $vector: data[0]?.embedding,
         carData,
       });
 
