@@ -55,11 +55,12 @@ const loadSampleData = async (similarity_metric: SimilarityMetric = 'cosine') =>
   for await (const car of autoData) {
     const { marca, modelo, precio, versiones } = car;
 
+    const precioNumerico = parseFloat(precio.replace(/\D/g, ''));
     const carData = {
       marca,
       modelo,
-      precio,
-      versiones: versiones.map((v) => ({ version: v.version, precio: v.precio })),
+      precio: precioNumerico,
+      versiones: versiones.map((v) => ({ version: v.version, precio: parseFloat(v.precio.replace(/\D/g, '')) })),
     };
 
     let i = 0;

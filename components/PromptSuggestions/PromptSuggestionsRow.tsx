@@ -2,9 +2,9 @@ import PromptSuggestionButton from "./PromptSuggestionButton";
 
 const PromptSuggestionRow = ({ onPromptClick }) => {
   const prompts = [
-    'Dime todas las marcas que existen',
+    '¿Estas conectado a una base de datos?',
+    'Dime todas las versiones de la marca Toyota',
     '¿Cual es la marca y el modelo con precio mas alto?',
-    'Dime todas las versiones junto a su precio de la marca "Audi" modelo "Q3"',
     '¿Que marca y modelo tiene mas versiones?, nombrame las versiones disponibles',
   ];
 
